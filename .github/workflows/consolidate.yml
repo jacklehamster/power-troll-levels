@@ -19,3 +19,16 @@ jobs:
 
       - name: Consolidate JSON
         uses: jacklehamster/dok-compression-action@v1.0.4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          ENV_VAR: value
+
+      - name: Check if Consolidated JSON was created
+        run: |
+          if [ -f consolidated.json ]; then
+            echo "Consolidated JSON file exists."
+          else
+            echo "Consolidated JSON file does not exist."
+            exit 1
+          fi
