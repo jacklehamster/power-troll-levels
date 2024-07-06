@@ -17,8 +17,5 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Use Consolidate JSON Action
-        uses: jacklehamster/dok-compression-action@v1.0.1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+      - name: Consolidate JSON
+        uses: jacklehamster/dok-compression-action@v1.0.4
