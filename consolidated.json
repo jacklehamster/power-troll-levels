@@ -8,7 +8,12 @@
     ]
   },
   "/data/user/vincent/profile.json": {
+    "data": {
+      "name": "vincent",
+      "Hello": 123
+    },
+    "sha": "7fdf6c67c32e476f79175eb44a8a9fcb0b620621",
     "name": "vincent",
-    "Hello": 123
+    "Hello2": "21345"
   }
 }
