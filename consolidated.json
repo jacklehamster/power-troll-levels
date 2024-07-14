@@ -6,14 +6,5 @@
     "levels": [
       "1VZwY667fa74fPX9MdI9dM4CasPjxyk5"
     ]
-  },
-  "/data/user/vincent/profile.json": {
-    "data": {
-      "name": "vincent",
-      "Hello": 123
-    },
-    "sha": null,
-    "name": "vincent",
-    "Hello2": null
   }
 }
