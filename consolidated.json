@@ -9,6 +9,7 @@
   },
   "/data/user/vincent/profile.json": {
     "name": "vincent",
-    "testing": 123
+    "testing": 123,
+    "test": 123
   }
 }
