@@ -1,113 +1,26 @@
 {
   "/data/dir.json": {
-    "audio/BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ] (1).mp3": "2024-10-11T04:34:38.648Z",
-    "audio/BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ].mp3": "2024-10-11T04:34:38.668Z",
-    "audio/Trouble Maker (현아,장현승) - Trouble Maker (Audio).mp3": "2024-10-11T04:34:38.696Z",
-    "image/brickandwater.png": "2024-10-11T04:34:38.696Z",
-    "image/eject.png": "2024-10-11T04:34:38.696Z",
-    "image/glueee.png": "2024-10-11T04:34:38.696Z",
-    "image/honeeyyy.png": "2024-10-11T04:34:38.696Z",
-    "image/level1.5-1000x600.png": "2024-10-11T04:34:38.696Z",
-    "image/level18-1000x600.png": "2024-10-11T04:34:38.696Z",
-    "image/level2_snail.png": "2024-10-11T04:34:38.696Z",
-    "image/pinky.png": "2024-10-11T04:34:38.696Z",
-    "image/rock-beach-transformed.png": "2024-10-11T04:34:38.696Z",
-    "image/simple-first.png": "2024-10-11T04:34:38.696Z",
-    "image/snakesnakes.png": "2024-10-11T04:34:38.696Z",
-    "image/switchy.png": "2024-10-11T04:34:38.696Z",
-    "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": "2024-10-11T04:34:38.696Z",
-    "levels/newgrounds/jacklehamster/level-c3280220-f6ac-4f49-9cc8-ab08f710a70a.json": "2024-10-11T04:34:38.696Z",
-    "md5": "76a51c31e5f759496d2f41575d375925",
-    "recycle/newgrounds/jacklehamster/undefined.json": "2024-10-11T04:34:38.696Z",
-    "user/vincent/levels.json": "2024-10-11T04:34:38.696Z",
-    "user/vincent/profile.json": "2024-10-11T04:34:38.696Z"
-  },
-  "/data/levels/newgrounds/jacklehamster/level-c3280220-f6ac-4f49-9cc8-ab08f710a70a.json": {
-    "id": "level-c3280220-f6ac-4f49-9cc8-ab08f710a70a",
-    "canPublish": true,
-    "ground": {
-      "ground1": {
-        "x": 424,
-        "y": 494,
-        "width": 216,
-        "height": 26
-      },
-      "ground2": {
-        "x": 757,
-        "y": 406,
-        "width": 413,
-        "height": 26
-      },
-      "ground3": {
-        "x": 282,
-        "y": 347,
-        "width": 216,
-        "height": 26
-      }
-    },
-    "door": {
-      "door1": {
-        "x": 289.05630452022206,
-        "y": 305.15191545574635,
-        "width": 64,
-        "height": 64,
-        "frame": 4
-      }
-    },
-    "key": {
-      "key1": {
-        "x": 655.4321966693101,
-        "y": 535.0066050198151,
-        "width": 45,
-        "height": 45,
-        "frame": 0
-      }
-    },
-    "vase": {
-      "vase1": {
-        "x": 389.7700237906423,
-        "y": 452,
-        "width": 64,
-        "height": 64,
-        "frame": 98,
-        "gift": 12
-      }
-    },
-    "rock": {
-      "rock1": {
-        "x": 570.578905630452,
-        "y": 362.21928665786,
-        "width": 64,
-        "height": 64,
-        "frame": 0
-      },
-      "rock2": {
-        "x": 948.0570975416335,
-        "y": 362.21928665786,
-        "width": 64,
-        "height": 64,
-        "frame": 0
-      }
-    },
-    "human": {
-      "human1": {
-        "x": 753.766851704996,
-        "y": 296.4332892998679,
-        "width": 64,
-        "height": 64,
-        "frame": 54
-      }
-    },
-    "profile": {
-      "username": "jacklehamster",
-      "type": "newgrounds"
-    },
-    "title": "Trouble",
-    "music": {
-      "title": "BTS%20(%E1%84%87%E1%85%A1%E1%86%BC%E1%84%90%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A9%E1%84%82%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A1%E1%86%AB)%20'%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A5%E1%86%BA%E1%84%83%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8B",
-      "url": "https%3A%2F%2Fcdn.dobuki.net%2F1094835fae1d52ca6e4b9a6508a8da963e0d978f0b576a404027e07a6bca023b.mp3",
-      "backupUrl": "https%3A%2F%2Fjacklehamster.github.io%2Fpower-troll-levels%2Fdata%2Faudio%2FBTS%2520(%25E1%2584%2587%25E1%2585%25A1%25E1%2586%25BC%25E1%2584%2590%25E1%2585%25A1%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A9%25E1%2584%2582%25E1%2585%25A7%25E1%2586%25AB%25E1%2584%2583%25E1%2585%25A1%25E1%2586%25AB)%2520'%25E1%2584%258C%25E1%2585%25A1%25E1%2586%25A8%25E1%2584%258B%25E1%2585%25B3%25E1%2586%25AB%2520%25E1%2584%2580%25E1%2585%25A5%25E1%2586%25BA%25E1%2584%2583%25E1%2585%25B3%25E1%2586%25AF%25E1%2584%258B%25E1%2585%25B3%25E1%2586%25AF%2520%25E1%2584%258B%25E1%2585%25B1%25E1%2584%2592%25E1%2585%25A1%25E1%2586%25AB%2520%25E1%2584%2589%25E1%2585%25B5%2520(Boy%2520With%2520Luv)%2520(feat.%2520Halsey)'%2520Official%2520MV%2520%255B%2520ezmp3.cc%2520%255D.mp3"
-    }
+    "audio/BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ] (1).mp3": "2024-10-11T04:46:36.672Z",
+    "audio/BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ].mp3": "2024-10-11T04:46:36.692Z",
+    "audio/Trouble Maker (현아,장현승) - Trouble Maker (Audio).mp3": "2024-10-11T04:46:36.720Z",
+    "image/brickandwater.png": "2024-10-11T04:46:36.720Z",
+    "image/eject.png": "2024-10-11T04:46:36.720Z",
+    "image/glueee.png": "2024-10-11T04:46:36.720Z",
+    "image/honeeyyy.png": "2024-10-11T04:46:36.720Z",
+    "image/level1.5-1000x600.png": "2024-10-11T04:46:36.720Z",
+    "image/level18-1000x600.png": "2024-10-11T04:46:36.720Z",
+    "image/level2_snail.png": "2024-10-11T04:46:36.720Z",
+    "image/pinky.png": "2024-10-11T04:46:36.720Z",
+    "image/rock-beach-transformed.png": "2024-10-11T04:46:36.720Z",
+    "image/simple-first.png": "2024-10-11T04:46:36.724Z",
+    "image/snakesnakes.png": "2024-10-11T04:46:36.724Z",
+    "image/switchy.png": "2024-10-11T04:46:36.724Z",
+    "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": "2024-10-11T04:46:36.724Z",
+    "md5": "7cf6958f8704f77c4b37149ab30a96d7",
+    "recycle/newgrounds/jacklehamster/level-c3280220-f6ac-4f49-9cc8-ab08f710a70a.json": "2024-10-11T04:46:36.724Z",
+    "recycle/newgrounds/jacklehamster/undefined.json": "2024-10-11T04:46:36.724Z",
+    "user/vincent/levels.json": "2024-10-11T04:46:36.724Z",
+    "user/vincent/profile.json": "2024-10-11T04:46:36.724Z"
   },
   "/data/recycle/newgrounds/jacklehamster/level-c3280220-f6ac-4f49-9cc8-ab08f710a70a.json": {
     "id": "level-c3280220-f6ac-4f49-9cc8-ab08f710a70a",
