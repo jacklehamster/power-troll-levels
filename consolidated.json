@@ -35,6 +35,65 @@
     "user/vincent/levels.json": "2024-10-11T10:13:47.116Z",
     "user/vincent/profile.json": "2024-10-11T10:13:47.116Z"
   },
+  "/data/levels/newgrounds/jacklehamster/level-73ff8b1b-a882-4b74-a85c-4b43a3e273bf.json": {
+    "id": "level-73ff8b1b-a882-4b74-a85c-4b43a3e273bf",
+    "music": {
+      "title": "BTS%20(%E1%84%87%E1%85%A1%E1%86%BC%E1%84%90%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A9%E1%84%82%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A1%E1%86%AB)%20'%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A5%E1%86%BA%E1%84%83%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8B",
+      "url": "https%3A%2F%2Fcdn.dobuki.net%2F1094835fae1d52ca6e4b9a6508a8da963e0d978f0b576a404027e07a6bca023b.mp3",
+      "backupUrl": "https%3A%2F%2Fjacklehamster.github.io%2Fpower-troll-levels%2Fdata%2Faudio%2FBTS%2520(%25E1%2584%2587%25E1%2585%25A1%25E1%2586%25BC%25E1%2584%2590%25E1%2585%25A1%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A9%25E1%2584%2582%25E1%2585%25A7%25E1%2586%25AB%25E1%2584%2583%25E1%2585%25A1%25E1%2586%25AB)%2520'%25E1%2584%258C%25E1%2585%25A1%25E1%2586%25A8%25E1%2584%258B%25E1%2585%25B3%25E1%2586%25AB%2520%25E1%2584%2580%25E1%2585%25A5%25E1%2586%25BA%25E1%2584%2583%25E1%2585%25B3%25E1%2586%25AF%25E1%2584%258B%25E1%2585%25B3%25E1%2586%25AF%2520%25E1%2584%258B%25E1%2585%25B1%25E1%2584%2592%25E1%2585%25A1%25E1%2586%25AB%2520%25E1%2584%2589%25E1%2585%25B5%2520(Boy%2520With%2520Luv)%2520(feat.%2520Halsey)'%2520Official%2520MV%2520%255B%2520ezmp3.cc%2520%255D%2520(1).mp3"
+    },
+    "ground": {
+      "ground1": {
+        "x": 493,
+        "y": 504,
+        "width": 154,
+        "height": 50
+      },
+      "ground2": {
+        "x": 304,
+        "y": 376,
+        "width": 154,
+        "height": 50
+      },
+      "ground3": {
+        "x": 535,
+        "y": 315,
+        "width": 154,
+        "height": 50
+      },
+      "ground4": {
+        "x": 766,
+        "y": 260,
+        "width": 154,
+        "height": 50
+      }
+    },
+    "key": {
+      "key1": {
+        "x": 814,
+        "y": 215,
+        "width": 45,
+        "height": 45,
+        "frame": 0
+      }
+    },
+    "door": {
+      "door1": {
+        "x": 286,
+        "y": 319,
+        "width": 64,
+        "height": 64,
+        "frame": 4
+      }
+    },
+    "title": "Test%20game",
+    "profile": {
+      "username": "jacklehamster",
+      "type": "newgrounds"
+    },
+    "hidden": true,
+    "url": ""
+  },
   "/data/recycle/newgrounds/jacklehamster/level-097e1dd7-04e3-42d8-8c7c-2e964d9ac975.json": {
     "id": "level-097e1dd7-04e3-42d8-8c7c-2e964d9ac975",
     "ground": {
