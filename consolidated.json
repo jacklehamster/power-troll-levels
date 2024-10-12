@@ -1,29 +1,39 @@
 {
+  "/data/dir-json.json": {
+    "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": "2024-10-12T03:10:51.863Z",
+    "levels/newgrounds/jacklehamster/lvl-e7b0e37b-44a.json": "2024-10-12T03:10:51.863Z",
+    "md5": "a7971733b08a0d5b5c68f3b985ac2500",
+    "user/vincent/levels.json": "2024-10-12T03:10:51.863Z",
+    "user/vincent/profile.json": "2024-10-12T03:10:51.863Z"
+  },
   "/data/dir.json": {
-    "audio/BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ] (1).mp3": "2024-10-11T17:40:55.704Z",
-    "audio/BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ].mp3": "2024-10-11T17:40:55.724Z",
-    "audio/Barenaked Ladies - One Week (Official Music Video) [ ezmp3.cc ].mp3": "2024-10-11T17:40:55.736Z",
-    "audio/Trouble Maker (현아,장현승) - Trouble Maker (Audio).mp3": "2024-10-11T17:40:55.764Z",
-    "audio/[MV] 볼빨간사춘기 - Love Letter [스타트업 OST Part.12 (START-UP OST Part.12)] [ ezmp3.cc ].mp3": "2024-10-11T17:40:55.776Z",
-    "audio/[MV] 수지 - My Dear Love [스타트업 OST Part.14 (START-UP OST Part.14)] [ ezmp3.cc ].mp3": "2024-10-11T17:40:55.796Z",
-    "image/12.png": "2024-10-11T17:40:55.796Z",
-    "image/brickandwater.png": "2024-10-11T17:40:55.796Z",
-    "image/eject.png": "2024-10-11T17:40:55.796Z",
-    "image/glueee.png": "2024-10-11T17:40:55.796Z",
-    "image/honeeyyy.png": "2024-10-11T17:40:55.796Z",
-    "image/level1.5-1000x600.png": "2024-10-11T17:40:55.796Z",
-    "image/level18-1000x600.png": "2024-10-11T17:40:55.796Z",
-    "image/level2_snail.png": "2024-10-11T17:40:55.796Z",
-    "image/pinky.png": "2024-10-11T17:40:55.800Z",
-    "image/rock-beach-transformed.png": "2024-10-11T17:40:55.800Z",
-    "image/simple-first.png": "2024-10-11T17:40:55.800Z",
-    "image/snakesnakes.png": "2024-10-11T17:40:55.800Z",
-    "image/switchy.png": "2024-10-11T17:40:55.800Z",
-    "image/tardigrades.png": "2024-10-11T17:40:55.800Z",
-    "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": "2024-10-11T17:40:55.800Z",
-    "md5": "f8a1c597f58b07cec76eb2c80d7131f5",
-    "user/vincent/levels.json": "2024-10-11T17:40:55.800Z",
-    "user/vincent/profile.json": "2024-10-11T17:40:55.800Z"
+    "audio/BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ] (1).mp3": "2024-10-12T03:10:51.767Z",
+    "audio/BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ].mp3": "2024-10-12T03:10:51.787Z",
+    "audio/Barenaked Ladies - One Week (Official Music Video) [ ezmp3.cc ].mp3": "2024-10-12T03:10:51.799Z",
+    "audio/Trouble Maker (현아,장현승) - Trouble Maker (Audio).mp3": "2024-10-12T03:10:51.827Z",
+    "audio/[MV] 볼빨간사춘기 - Love Letter [스타트업 OST Part.12 (START-UP OST Part.12)] [ ezmp3.cc ].mp3": "2024-10-12T03:10:51.839Z",
+    "audio/[MV] 수지 - My Dear Love [스타트업 OST Part.14 (START-UP OST Part.14)] [ ezmp3.cc ].mp3": "2024-10-12T03:10:51.859Z",
+    "image/12.png": "2024-10-12T03:10:51.859Z",
+    "image/Blog_header_images_58444563-e9d5-4c0e-93f1-3cbc779b11bc_1445x.jpg": "2024-10-12T03:10:51.859Z",
+    "image/brickandwater.png": "2024-10-12T03:10:51.859Z",
+    "image/eject.png": "2024-10-12T03:10:51.859Z",
+    "image/glueee.png": "2024-10-12T03:10:51.859Z",
+    "image/honeeyyy.png": "2024-10-12T03:10:51.863Z",
+    "image/level1.5-1000x600.png": "2024-10-12T03:10:51.863Z",
+    "image/level18-1000x600.png": "2024-10-12T03:10:51.863Z",
+    "image/level2_snail.png": "2024-10-12T03:10:51.863Z",
+    "image/levelundefined-1000x600.png": "2024-10-12T03:10:51.863Z",
+    "image/pinky.png": "2024-10-12T03:10:51.863Z",
+    "image/rock-beach-transformed.png": "2024-10-12T03:10:51.863Z",
+    "image/simple-first.png": "2024-10-12T03:10:51.863Z",
+    "image/snakesnakes.png": "2024-10-12T03:10:51.863Z",
+    "image/switchy.png": "2024-10-12T03:10:51.863Z",
+    "image/tardigrades.png": "2024-10-12T03:10:51.863Z",
+    "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": "2024-10-12T03:10:51.863Z",
+    "levels/newgrounds/jacklehamster/lvl-e7b0e37b-44a.json": "2024-10-12T03:10:51.863Z",
+    "md5": "73bb8c4e23ab099cdc562bb99b89d8f2",
+    "user/vincent/levels.json": "2024-10-12T03:10:51.863Z",
+    "user/vincent/profile.json": "2024-10-12T03:10:51.863Z"
   },
   "/data/levels/newgrounds/jacklehamster/lvl-e7b0e37b-44a.json": {
     "id": "lvl-e7b0e37b-44a",
@@ -66,6 +76,18 @@
         "y": 523,
         "width": 263,
         "height": 35
+      },
+      "ground5": {
+        "x": 920,
+        "y": 221,
+        "width": 50,
+        "height": 50
+      },
+      "ground6": {
+        "x": 419.0106692531523,
+        "y": 575.7281553398059,
+        "width": 50,
+        "height": 50
       }
     },
     "key": {
@@ -83,7 +105,9 @@
         "y": 355,
         "width": 64,
         "height": 64,
-        "frame": 4
+        "frame": 0,
+        "message": "Thank%20you%20for%20play%20this%20level.%20Please%20support%20me%20on%20Patreon.",
+        "link": "https%3A%2F%2Fwww.patreon.com%2Fdobuki"
       }
     },
     "monster": {
@@ -100,6 +124,13 @@
         "width": 64,
         "height": 64,
         "frame": 14
+      },
+      "monster3": {
+        "x": 728.4991598784613,
+        "y": 116.43835616438355,
+        "width": 64,
+        "height": 64,
+        "frame": 6
       }
     },
     "human": {
@@ -113,8 +144,8 @@
     },
     "vase": {
       "vase1": {
-        "x": 304.12371134020617,
-        "y": 559.5772787318361,
+        "x": 546,
+        "y": 559,
         "width": 64,
         "height": 64,
         "frame": 86,
@@ -150,7 +181,22 @@
       }
     },
     "background": "https%3A%2F%2Fcdn.dobuki.net%2F9ba6971b939e7d7196767589174995063dc4b44790ce181cf58605580bf0d8ee.jpg",
-    "url": ""
+    "url": "",
+    "overlays": [
+      "https%3A%2F%2Fcdn.dobuki.net%2F443693d7e1a794485ca865667cad22ea953c90febe800fb8c063c1f210fc825a.png",
+      "https%3A%2F%2Fjacklehamster.github.io%2Fpower-troll-levels%2Fdata%2Fimage%2Flevelundefined-1000x600.png"
+    ],
+    "overlay": "https%3A%2F%2Fcdn.dobuki.net%2F443693d7e1a794485ca865667cad22ea953c90febe800fb8c063c1f210fc825a.png",
+    "vine": {
+      "vine1": {
+        "x": 919,
+        "y": 165,
+        "width": 64,
+        "height": 64,
+        "frame": 65
+      }
+    },
+    "version": 5
   },
   "/data/user/vincent/profile.json": {
     "name": "vincent",
