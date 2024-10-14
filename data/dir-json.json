@@ -1,7 +1,15 @@
 {
-  "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": "2024-10-14T03:54:27.294Z",
-  "levels/newgrounds/jacklehamster/lvl-e7b0e37b-44a.json": "2024-10-14T03:54:27.294Z",
-  "md5": "32b92703e07c2f5b5eecf49bff60970f",
-  "user/vincent/levels.json": "2024-10-14T03:54:27.294Z",
-  "user/vincent/profile.json": "2024-10-14T03:54:27.294Z"
+  "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
+    "sha": "2c35f5b3142cccb78153ee4522b47135a64ee894"
+  },
+  "levels/newgrounds/jacklehamster/lvl-e7b0e37b-44a.json": {
+    "sha": "2c35f5b3142cccb78153ee4522b47135a64ee894"
+  },
+  "md5": "0e6b067a78615ed9f8c7fe9511acf986",
+  "user/vincent/levels.json": {
+    "sha": "2c35f5b3142cccb78153ee4522b47135a64ee894"
+  },
+  "user/vincent/profile.json": {
+    "sha": "2c35f5b3142cccb78153ee4522b47135a64ee894"
+  }
 }
