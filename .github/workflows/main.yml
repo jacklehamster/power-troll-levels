@@ -12,6 +12,13 @@ jobs:
         with:
           who-to-greet: ${{ github.repository}}
 
+      - name: Consolidate JSON
+        uses: jacklehamster/dok-compression-action@v1.1.4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          ENV_VAR: value
+
       - name: Commit files # transfer the new html files back into the repository
         run: |
           git config --global user.name "GitHub Actions"
