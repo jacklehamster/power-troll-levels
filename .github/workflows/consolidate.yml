@@ -15,12 +15,6 @@ jobs:
         with:
           node-version: '16'
 
-      - name: Install dependencies
-        run: npm install dok-compression
-
-      - name: Build project
-        run: npm run build
-
       - name: Consolidate JSON
         uses: jacklehamster/dok-compression-action@v1.1.3
         with:
