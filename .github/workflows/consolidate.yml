@@ -22,7 +22,7 @@ jobs:
         run: npm run build
 
       - name: Consolidate JSON
-        uses: jacklehamster/dok-compression-action@v1.1.2
+        uses: jacklehamster/dok-compression-action@v1.1.3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
         env:
