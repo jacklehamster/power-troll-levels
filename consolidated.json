@@ -1,20 +1,23 @@
 {
   "/data/dir-json.json": {
     "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
+    },
+    "levels/newgrounds/jacklehamster/lvl-83226c30-592.json": {
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "levels/newgrounds/jacklehamster/lvl-a4f53527-456.json": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "levels/newgrounds/jacklehamster/lvl-e7b0e37b-44a.json": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
-    "md5": "08db62bd29f127e774053f403ae3c0f2",
+    "md5": "989c3cdef49e82dcff5320f981c1ee22",
     "user/vincent/levels.json": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "user/vincent/profile.json": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     }
   },
   "/data/dir.json": {
@@ -37,113 +40,116 @@
       "sha": null
     },
     "audio/beep-bop-troll.ogg": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/12.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/21eda896-5cea-4b94-b348-e1b1dd0be285.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/6124023_1312101_mich-spich_untitled-6124023.57be97c0e157ff2e7a9c5e097c2c4e19.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/Blog_header_images_58444563-e9d5-4c0e-93f1-3cbc779b11bc_1445x.jpg": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/bc5ff9d7d6a022e44e0937fd4363827f556162dffb8b45d2d7f803e149f1500f.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/brickandwater.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/eject.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/glueee.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/gogtroll.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/hhooh-export.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/hintergrund-tapete-14623453582pl.jpg": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/honeeyyy.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/kklklk.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/lazy.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/level1.5-1000x600.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/level18-1000x600.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/level2_snail.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/levelundefined-1000x600.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/ovvla.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/pinky.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/pipie.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/platforms.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/rak.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/rock-beach-transformed.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/simple-first.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/snakesnakes.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/switchy.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/tardigrades.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/vampire-export.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "image/vampire.png": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
+    },
+    "levels/newgrounds/jacklehamster/lvl-83226c30-592.json": {
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "levels/newgrounds/jacklehamster/lvl-a4f53527-456.json": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "levels/newgrounds/jacklehamster/lvl-e7b0e37b-44a.json": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
-    "md5": "2321a22294bb1a03c1f5b1077ac7d95b",
+    "md5": "abf754e1ee310538cc3f545358de3ed9",
     "user/vincent/levels.json": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     },
     "user/vincent/profile.json": {
-      "sha": "bc015cfa428ac4792fbb22789cea905a50970710"
+      "sha": "1b0e691db0efbab51bbd6fc64ac28b6a0ee3fd21"
     }
   },
   "/data/level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
@@ -152,6 +158,128 @@
     "url": "https://jacklehamster.github.io/power-troll-levels/data/level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json",
     "time": 1721621656476,
     "newField": 1333
+  },
+  "/data/levels/newgrounds/jacklehamster/lvl-83226c30-592.json": {
+    "id": "lvl-83226c30-592",
+    "ground": {
+      "ground1": {
+        "x": 312,
+        "y": 392,
+        "width": 50,
+        "height": 50
+      },
+      "ground2": {
+        "x": 496,
+        "y": 465,
+        "width": 95,
+        "height": 50
+      },
+      "ground3": {
+        "x": 81,
+        "y": 260,
+        "width": 165,
+        "height": 50
+      },
+      "ground4": {
+        "x": 979,
+        "y": 395,
+        "width": 50,
+        "height": 29
+      },
+      "ground5": {
+        "x": 983,
+        "y": 243,
+        "width": 50,
+        "height": 29
+      }
+    },
+    "vine": {
+      "vine1": {
+        "x": 309.2783505154639,
+        "y": 335.27080581241745,
+        "width": 64,
+        "height": 64,
+        "frame": 64
+      },
+      "vine2": {
+        "x": 311,
+        "y": 279,
+        "width": 64,
+        "height": 64,
+        "frame": 65
+      },
+      "vine3": {
+        "x": 313,
+        "y": 215,
+        "width": 64,
+        "height": 64,
+        "frame": 65
+      }
+    },
+    "human": {
+      "human1": {
+        "x": 54,
+        "y": 134,
+        "width": 64,
+        "height": 64,
+        "frame": 54
+      }
+    },
+    "rock": {
+      "rock1": {
+        "x": 134.02061855670104,
+        "y": 202.11360634081902,
+        "width": 64,
+        "height": 64,
+        "frame": 0
+      }
+    },
+    "door": {
+      "door1": {
+        "x": 466.2965900079302,
+        "y": 409.77542932628796,
+        "width": 64,
+        "height": 64,
+        "frame": 4
+      }
+    },
+    "bonus": {
+      "bonus1": {
+        "x": 527.3592386994449,
+        "y": 415.8381563754539,
+        "width": 40,
+        "height": 40,
+        "frame": 2
+      }
+    },
+    "key": {
+      "key1": {
+        "x": 977.0023790642347,
+        "y": 199.7357992073976,
+        "width": 45,
+        "height": 45,
+        "frame": 0
+      }
+    },
+    "backgrounds": [
+      "https%3A%2F%2Fcdn.dobuki.net%2Fdcdb8cd2c769ff34d547329e4a3fc3f6cfe4fc01bdf86fbc215c4f775bb69f0b.png",
+      "https%3A%2F%2Fjacklehamster.github.io%2Fpower-troll-levels%2Fdata%2Fimage%2F6124023_1312101_mich-spich_untitled-6124023.57be97c0e157ff2e7a9c5e097c2c4e19.png"
+    ],
+    "attribution": {
+      "background": "https%3A%2F%2Fwww.newgrounds.com%2Fart%2Fview%2Fmich-spich%2Flomnicky-peak"
+    },
+    "music": {
+      "title": "%5BMV%5D%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%B5%20-%20My%20Dear%20Love%20%5B%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A5%E1%86%B8%20OST%20",
+      "url": "https%3A%2F%2Fcdn.dobuki.net%2F41e5c4a405eb35595e679899a83f9655139b9d7b97fa028631f77e19ecc4ab58.mp3",
+      "backupUrl": "https%3A%2F%2Fjacklehamster.github.io%2Fpower-troll-levels%2Fdata%2Faudio%2F%255BMV%255D%2520%25E1%2584%2589%25E1%2585%25AE%25E1%2584%258C%25E1%2585%25B5%2520-%2520My%2520Dear%2520Love%2520%255B%25E1%2584%2589%25E1%2585%25B3%25E1%2584%2590%25E1%2585%25A1%25E1%2584%2590%25E1%2585%25B3%25E1%2584%258B%25E1%2585%25A5%25E1%2586%25B8%2520OST%2520Part.14%2520(START-UP%2520OST%2520Part.14)%255D%2520%255B%2520ezmp3.cc%2520%255D.mp3",
+      "attribution": "Bae%20Suzy"
+    },
+    "hidden": true,
+    "profile": {
+      "username": "jacklehamster",
+      "type": "newgrounds"
+    },
+    "version": 1
   },
   "/data/levels/newgrounds/jacklehamster/lvl-a4f53527-456.json": {
     "id": "lvl-a4f53527-456",
