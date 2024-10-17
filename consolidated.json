@@ -1,23 +1,26 @@
 {
   "/data/dir-json.json": {
+    "example-data.json": {
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
+    },
     "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "levels/newgrounds/jacklehamster/lvl-83226c30-592.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "levels/newgrounds/jacklehamster/lvl-a4f53527-456.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "levels/newgrounds/jacklehamster/lvl-e7b0e37b-44a.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
-    "md5": "93540f90373d78b103ab5d843477ce56",
+    "md5": "b77eb4ad582eb4373744a92f2ad9cb3e",
     "user/vincent/levels.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "user/vincent/profile.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     }
   },
   "/data/dir.json": {
@@ -40,120 +43,127 @@
       "sha": null
     },
     "audio/beep-bop-troll.ogg": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
+    },
+    "example-data.json": {
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/12.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/21eda896-5cea-4b94-b348-e1b1dd0be285.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/6124023_1312101_mich-spich_untitled-6124023.57be97c0e157ff2e7a9c5e097c2c4e19.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/Blog_header_images_58444563-e9d5-4c0e-93f1-3cbc779b11bc_1445x.jpg": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/SAC-Johnson-Student-Center-Exterior-1.jpg": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/bc5ff9d7d6a022e44e0937fd4363827f556162dffb8b45d2d7f803e149f1500f.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/brickandwater.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/eject.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/glueee.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/gogtroll.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/hhooh-export.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/hintergrund-tapete-14623453582pl.jpg": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/honeeyyy.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/kklklk.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/lazy.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/level1.5-1000x600.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/level18-1000x600.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/level2_snail.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/levelundefined-1000x600.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/ovvla.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/pinky.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/pipie.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/platforms.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/rak.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/rock-beach-transformed.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/simple-first.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/snakesnakes.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/switchy.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/tardigrades.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/vampire-export.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "image/vampire.png": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "levels/newgrounds/jacklehamster/lvl-83226c30-592.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "levels/newgrounds/jacklehamster/lvl-a4f53527-456.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "levels/newgrounds/jacklehamster/lvl-e7b0e37b-44a.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
-    "md5": "48683d08164363808b18e27595a91651",
+    "md5": "52374e057c1789b73b15a4fa2dd0c42a",
     "user/vincent/levels.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     },
     "user/vincent/profile.json": {
-      "sha": "f54a844bb8b8b6950c3a8a2e8a6a5655e3df5abe"
+      "sha": "5499484e5dbdfa7520e298852ac260e1eaa88835"
     }
+  },
+  "/data/example-data.json": {
+    "Hello": "World",
+    "now": "Thu Oct 17 2024 00:20:04 GMT-0700 (Pacific Daylight Time)"
   },
   "/data/level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
     "name": "abcde",
