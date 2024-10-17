@@ -1,1 +1,144 @@
-{"id":"lvl-83226c30-592","ground":{"ground1":{"x":312,"y":392,"width":50,"height":50},"ground2":{"x":496,"y":465,"width":95,"height":50},"ground3":{"x":81,"y":260,"width":165,"height":50},"ground4":{"x":979,"y":395,"width":50,"height":29},"ground5":{"x":983,"y":243,"width":50,"height":29}},"vine":{"vine1":{"x":309.2783505154639,"y":335.27080581241745,"width":64,"height":64,"frame":64},"vine2":{"x":311,"y":279,"width":64,"height":64,"frame":65},"vine3":{"x":313,"y":215,"width":64,"height":64,"frame":65}},"human":{"human1":{"x":54,"y":134,"width":64,"height":64,"frame":54}},"rock":{"rock1":{"x":134.02061855670104,"y":202.11360634081902,"width":64,"height":64,"frame":0}},"door":{"door1":{"x":466.2965900079302,"y":409.77542932628796,"width":64,"height":64,"frame":4}},"bonus":{"bonus1":{"x":527.3592386994449,"y":415.8381563754539,"width":40,"height":40,"frame":2}},"key":{"key1":{"x":977.0023790642347,"y":199.7357992073976,"width":45,"height":45,"frame":0}},"backgrounds":["https%3A%2F%2Fcdn.dobuki.net%2Fdcdb8cd2c769ff34d547329e4a3fc3f6cfe4fc01bdf86fbc215c4f775bb69f0b.png","https%3A%2F%2Fjacklehamster.github.io%2Fpower-troll-levels%2Fdata%2Fimage%2F6124023_1312101_mich-spich_untitled-6124023.57be97c0e157ff2e7a9c5e097c2c4e19.png"],"attribution":{"background":"https%3A%2F%2Fwww.newgrounds.com%2Fart%2Fview%2Fmich-spich%2Flomnicky-peak"},"music":{"title":"%5BMV%5D%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%B5%20-%20My%20Dear%20Love%20%5B%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A5%E1%86%B8%20OST%20","url":"https%3A%2F%2Fcdn.dobuki.net%2F41e5c4a405eb35595e679899a83f9655139b9d7b97fa028631f77e19ecc4ab58.mp3","backupUrl":"https%3A%2F%2Fjacklehamster.github.io%2Fpower-troll-levels%2Fdata%2Faudio%2F%255BMV%255D%2520%25E1%2584%2589%25E1%2585%25AE%25E1%2584%258C%25E1%2585%25B5%2520-%2520My%2520Dear%2520Love%2520%255B%25E1%2584%2589%25E1%2585%25B3%25E1%2584%2590%25E1%2585%25A1%25E1%2584%2590%25E1%2585%25B3%25E1%2584%258B%25E1%2585%25A5%25E1%2586%25B8%2520OST%2520Part.14%2520(START-UP%2520OST%2520Part.14)%255D%2520%255B%2520ezmp3.cc%2520%255D.mp3","attribution":"Bae%20Suzy"},"hidden":true,"profile":{"username":"jacklehamster","type":"newgrounds"},"version":2,"background":"https%3A%2F%2Fcdn.dobuki.net%2Fdcdb8cd2c769ff34d547329e4a3fc3f6cfe4fc01bdf86fbc215c4f775bb69f0b.png","url":"","description":"Baesuzy%20description%20testing%0AHello%0AYeah%0AHallala"}
+{
+  "id": "lvl-83226c30-592",
+  "ground": {
+    "ground1": {
+      "x": 312,
+      "y": 392,
+      "width": 50,
+      "height": 50
+    },
+    "ground2": {
+      "x": 496,
+      "y": 465,
+      "width": 95,
+      "height": 50
+    },
+    "ground3": {
+      "x": 81,
+      "y": 260,
+      "width": 165,
+      "height": 50
+    },
+    "ground4": {
+      "x": 979,
+      "y": 395,
+      "width": 50,
+      "height": 29
+    },
+    "ground5": {
+      "x": 983,
+      "y": 243,
+      "width": 50,
+      "height": 29
+    }
+  },
+  "vine": {
+    "vine1": {
+      "x": 309.2783505154639,
+      "y": 335.27080581241745,
+      "width": 64,
+      "height": 64,
+      "frame": 64
+    },
+    "vine2": {
+      "x": 311,
+      "y": 279,
+      "width": 64,
+      "height": 64,
+      "frame": 65
+    },
+    "vine3": {
+      "x": 313,
+      "y": 215,
+      "width": 64,
+      "height": 64,
+      "frame": 65
+    }
+  },
+  "human": {
+    "human1": {
+      "x": 54,
+      "y": 134,
+      "width": 64,
+      "height": 64,
+      "frame": 54
+    }
+  },
+  "rock": {
+    "rock1": {
+      "x": 134.02061855670104,
+      "y": 202.11360634081902,
+      "width": 64,
+      "height": 64,
+      "frame": 0
+    }
+  },
+  "door": {
+    "door1": {
+      "x": 466.2965900079302,
+      "y": 409.77542932628796,
+      "width": 64,
+      "height": 64,
+      "frame": 0,
+      "message": "Congrats%20on%20finishing%20this%20level!%0APlease%20support%20me%20on%20Patreon.",
+      "link": "https%3A%2F%2Fwww.patreon.com%2Fc%2Fdobuki"
+    }
+  },
+  "bonus": {
+    "bonus1": {
+      "x": 527.3592386994449,
+      "y": 415.8381563754539,
+      "width": 40,
+      "height": 40,
+      "frame": 2
+    }
+  },
+  "key": {
+    "key1": {
+      "x": 977.0023790642347,
+      "y": 199.7357992073976,
+      "width": 45,
+      "height": 45,
+      "frame": 0
+    }
+  },
+  "backgrounds": [
+    "https%3A%2F%2Fcdn.dobuki.net%2Fba6126eaf259681f96af5ddab3944af7920f54b29e5f826699360c4fcce15633.jpg",
+    "https%3A%2F%2Fjacklehamster.github.io%2Fpower-troll-levels%2Fdata%2Fimage%2FSAC-Johnson-Student-Center-Exterior-1.jpg"
+  ],
+  "attribution": {
+    "background": "SAC",
+    "music": "BTS"
+  },
+  "music": {
+    "title": "Song",
+    "url": "assets%2Fsong.ogg"
+  },
+  "hidden": false,
+  "profile": {
+    "username": "jacklehamster",
+    "type": "newgrounds"
+  },
+  "version": 3,
+  "background": "https%3A%2F%2Fcdn.dobuki.net%2Fdcdb8cd2c769ff34d547329e4a3fc3f6cfe4fc01bdf86fbc215c4f775bb69f0b.png",
+  "url": "",
+  "description": "This%20is%20a%20level%0Awas%20produced%20by%20JackLeHamster",
+  "updated": 1729191803692,
+  "title": "SAC",
+  "troll": {
+    "troll": {
+      "x": 35,
+      "y": 455,
+      "width": 48,
+      "height": 48,
+      "frame": 0
+    },
+    "troll2": {
+      "x": 102,
+      "y": 538,
+      "width": 48,
+      "height": 48,
+      "frame": 0
+    }
+  }
+}
