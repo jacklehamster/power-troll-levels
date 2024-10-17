@@ -1,1 +1,12 @@
-{"name":"vincent","time":1721534073619,"testing":[1,2,3],"ttt":{"a":"test"}}
+{
+  "name": "vincent",
+  "time": 1721534073,
+  "testing": [
+    1,
+    2,
+    3
+  ],
+  "ttt": {
+    "a": "test"
+  }
+}
