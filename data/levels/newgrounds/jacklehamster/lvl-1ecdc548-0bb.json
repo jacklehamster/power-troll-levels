@@ -1,7 +1,7 @@
 {
   "id": "lvl-1ecdc548-0bb",
   "created": 3445154269,
-  "updated": 1730026426125,
+  "updated": 1730026543390,
   "key": {
     "key1": {
       "x": 500.61652281134405,
@@ -17,7 +17,8 @@
       "y": 497.53086419753083,
       "width": 64,
       "height": 64,
-      "frame": 4
+      "frame": 0,
+      "destination": "newgrounds/jacklehamster/lvl-2dc7e968-a4c"
     }
   },
   "ground": {
