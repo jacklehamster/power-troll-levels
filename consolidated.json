@@ -434,21 +434,27 @@
     "md5": "716387fb8b2b532bbe239b06c1d9f3fc"
   },
   "/data/levels/dir-json.json": {
-    "md5": "f6362780005a3f34ce711cf2c5e7f336",
+    "md5": "a368ff31f81d795ebf73e93f530ef3bf",
     "newgrounds/jacklehamster/lvl-83226c30-592.json": {
       "sha": "95e6d79b8093fb8ec2f868d4b91cb00724acb4d2"
     },
     "newgrounds/jacklehamster/lvl-a4f53527-456.json": {
       "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
+    },
+    "newgrounds/jacklehamster/lvl-f5bc3274-ca6.json": {
+      "sha": "7a61d6922755c29e6725b8e96dc9147948fb83fe"
     }
   },
   "/data/levels/dir.json": {
-    "md5": "f6362780005a3f34ce711cf2c5e7f336",
+    "md5": "a368ff31f81d795ebf73e93f530ef3bf",
     "newgrounds/jacklehamster/lvl-83226c30-592.json": {
       "sha": "95e6d79b8093fb8ec2f868d4b91cb00724acb4d2"
     },
     "newgrounds/jacklehamster/lvl-a4f53527-456.json": {
       "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
+    },
+    "newgrounds/jacklehamster/lvl-f5bc3274-ca6.json": {
+      "sha": "7a61d6922755c29e6725b8e96dc9147948fb83fe"
     }
   },
   "/data/levels/newgrounds/dir-json.json": {
@@ -458,7 +464,10 @@
     "jacklehamster/lvl-a4f53527-456.json": {
       "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
     },
-    "md5": "4675413dc4605e5884a5126139e2729f"
+    "jacklehamster/lvl-f5bc3274-ca6.json": {
+      "sha": "7a61d6922755c29e6725b8e96dc9147948fb83fe"
+    },
+    "md5": "e0cde692f0295bb80309da4c6070dbf6"
   },
   "/data/levels/newgrounds/dir.json": {
     "jacklehamster/lvl-83226c30-592.json": {
@@ -467,7 +476,10 @@
     "jacklehamster/lvl-a4f53527-456.json": {
       "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
     },
-    "md5": "4675413dc4605e5884a5126139e2729f"
+    "jacklehamster/lvl-f5bc3274-ca6.json": {
+      "sha": "7a61d6922755c29e6725b8e96dc9147948fb83fe"
+    },
+    "md5": "e0cde692f0295bb80309da4c6070dbf6"
   },
   "/data/levels/newgrounds/jacklehamster/dir-json.json": {
     "lvl-83226c30-592.json": {
@@ -476,7 +488,10 @@
     "lvl-a4f53527-456.json": {
       "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
     },
-    "md5": "12fae5f3b2c164ab73d9d124475784e2"
+    "lvl-f5bc3274-ca6.json": {
+      "sha": "7a61d6922755c29e6725b8e96dc9147948fb83fe"
+    },
+    "md5": "2f7a4c2e5031139639bfab6f9b99641c"
   },
   "/data/levels/newgrounds/jacklehamster/dir.json": {
     "lvl-83226c30-592.json": {
@@ -485,7 +500,10 @@
     "lvl-a4f53527-456.json": {
       "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
     },
-    "md5": "12fae5f3b2c164ab73d9d124475784e2"
+    "lvl-f5bc3274-ca6.json": {
+      "sha": "7a61d6922755c29e6725b8e96dc9147948fb83fe"
+    },
+    "md5": "2f7a4c2e5031139639bfab6f9b99641c"
   },
   "/data/levels/newgrounds/jacklehamster/lvl-83226c30-592.json": {
     "id": "lvl-83226c30-592",
@@ -672,6 +690,46 @@
     "attribution": {
       "music": "Love"
     }
+  },
+  "/data/levels/newgrounds/jacklehamster/lvl-f5bc3274-ca6.json": {
+    "id": "lvl-f5bc3274-ca6",
+    "created": 1730009749856,
+    "updated": 1730010009037,
+    "backgrounds": [
+      "https%3A//cdn.dobuki.net/ab4a1b233f0a23c271f9dd5bf30858d733e1bad9037f5c0d2a60e24f8de20de3.png",
+      "https%3A//jacklehamster.github.io/power-troll-levels/data/image/dobuki-logo.png"
+    ],
+    "door": {
+      "door1": {
+        "x": 659.3886462882097,
+        "y": 429.5081967213115,
+        "width": 64,
+        "height": 64,
+        "frame": 4
+      }
+    },
+    "key": {
+      "key1": {
+        "x": 325.3275109170306,
+        "y": 426.2295081967213,
+        "width": 45,
+        "height": 45,
+        "frame": 0
+      }
+    },
+    "profile": {
+      "username": "jacklehamster",
+      "type": "newgrounds"
+    },
+    "title": "Test title",
+    "music": {
+      "title": "TheologyCivilization - Conan the Barbari",
+      "url": "https%3A//cdn.dobuki.net/f08536e5ce9e867669c224b082bc68cc30ed84f0e7490f63ad44b0fcfbd5c793.bin",
+      "backupUrl": "https%3A//power-troll-levels.dobuki.net/data/audio/TheologyCivilization%2520-%2520Conan%2520the%2520Barbarian%2520Theme%2520(Basil%2520Poledouris)%2520%255B%2520ezmp3.cc%2520%255D.mp3"
+    },
+    "hidden": true,
+    "autoNext": true,
+    "version": 1
   },
   "/data/user/dir-json.json": {
     "md5": "d91842f65efcf4254c6ed8c38328afc6",
