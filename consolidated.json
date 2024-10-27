@@ -49,9 +49,9 @@
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "0521882221c6522f04a9eef48807d4a3b27bf8fd"
+      "sha": "14dd7e884283aee13bf3bd734362b1605be618cb"
     },
-    "md5": "532b02d6bf94c4d2d73b4acca34fe91b",
+    "md5": "d2d602b34892985604c5fd83130364ed",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -268,9 +268,9 @@
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "0521882221c6522f04a9eef48807d4a3b27bf8fd"
+      "sha": "14dd7e884283aee13bf3bd734362b1605be618cb"
     },
-    "md5": "3d4785910472fd97498f2d749ceeaeca",
+    "md5": "cb4fb1a70a1a59792495267015bd6e58",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -467,21 +467,21 @@
     "md5": "716387fb8b2b532bbe239b06c1d9f3fc"
   },
   "/data/levels/dir-json.json": {
-    "md5": "3f8c70df6a22baeb1b407d509d6a7c80",
+    "md5": "e39339ef2dfdef369d60486443007bf6",
     "newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "0521882221c6522f04a9eef48807d4a3b27bf8fd"
+      "sha": "14dd7e884283aee13bf3bd734362b1605be618cb"
     }
   },
   "/data/levels/dir.json": {
-    "md5": "3f8c70df6a22baeb1b407d509d6a7c80",
+    "md5": "e39339ef2dfdef369d60486443007bf6",
     "newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "0521882221c6522f04a9eef48807d4a3b27bf8fd"
+      "sha": "14dd7e884283aee13bf3bd734362b1605be618cb"
     }
   },
   "/data/levels/newgrounds/dir-json.json": {
@@ -489,36 +489,36 @@
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "0521882221c6522f04a9eef48807d4a3b27bf8fd"
+      "sha": "14dd7e884283aee13bf3bd734362b1605be618cb"
     },
-    "md5": "737d6d3e51554130f2a603e0b46dddd3"
+    "md5": "333dd175d60234ba06856fdd50ab3aa9"
   },
   "/data/levels/newgrounds/dir.json": {
     "jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "0521882221c6522f04a9eef48807d4a3b27bf8fd"
+      "sha": "14dd7e884283aee13bf3bd734362b1605be618cb"
     },
-    "md5": "737d6d3e51554130f2a603e0b46dddd3"
+    "md5": "333dd175d60234ba06856fdd50ab3aa9"
   },
   "/data/levels/newgrounds/jacklehamster/dir-json.json": {
     "lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "lvl-2dc7e968-a4c.json": {
-      "sha": "0521882221c6522f04a9eef48807d4a3b27bf8fd"
+      "sha": "14dd7e884283aee13bf3bd734362b1605be618cb"
     },
-    "md5": "249346251205a54362173e3bd785bdda"
+    "md5": "449c4b49e3563f3e50db3488b6995f77"
   },
   "/data/levels/newgrounds/jacklehamster/dir.json": {
     "lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "lvl-2dc7e968-a4c.json": {
-      "sha": "0521882221c6522f04a9eef48807d4a3b27bf8fd"
+      "sha": "14dd7e884283aee13bf3bd734362b1605be618cb"
     },
-    "md5": "249346251205a54362173e3bd785bdda"
+    "md5": "449c4b49e3563f3e50db3488b6995f77"
   },
   "/data/levels/newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
     "id": "lvl-1ecdc548-0bb",
@@ -574,7 +574,7 @@
   "/data/levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "id": "lvl-2dc7e968-a4c",
     "created": 3440547629,
-    "updated": 1730063616482,
+    "updated": 1730065766585,
     "backgrounds": [
       "https%3A//cdn.dobuki.net/44f1452ad92bb2a63cec197962b774030146a21cdec3af359b40c2978cf5519c.jpg",
       "https%3A//power-troll-levels.dobuki.net/data/image/77893281_wide.jpg"
@@ -593,11 +593,18 @@
         "height": 50
       },
       "ground3": {
-        "x": 466.0912453760789,
-        "y": 204.93827160493825,
-        "width": 50,
-        "height": 50,
+        "x": 155,
+        "y": 153,
+        "width": 210,
+        "height": 184,
+        "ghost": true,
         "art": true
+      },
+      "ground4": {
+        "x": 462,
+        "y": 206,
+        "width": 50,
+        "height": 50
       }
     },
     "door": {
@@ -656,7 +663,7 @@
       "backupUrl": "https%3A//power-troll-levels.dobuki.net/data/audio/Doop%2520-%2520My%2520Chihuahua%2520%255B%2520ezmp3.cc%2520%255D.mp3"
     },
     "hidden": true,
-    "version": 4,
+    "version": 5,
     "url": "",
     "autoNext": true,
     "community": false,
