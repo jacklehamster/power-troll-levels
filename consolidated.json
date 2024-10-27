@@ -33,7 +33,10 @@
     "beep-bop-troll.ogg": {
       "sha": "f1bd6ac6ab1a3f1613aa8603caadc4d6a218e5df"
     },
-    "md5": "875842282ec8138b468d5ed3b02b6afc"
+    "doop - sunshine [ ezmp3.cc ].mp3": {
+      "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
+    },
+    "md5": "f3bacc9a38bce5bc24f6de40631306a9"
   },
   "/data/dir-json.json": {
     "example-data.json": {
@@ -83,6 +86,9 @@
     },
     "audio/beep-bop-troll.ogg": {
       "sha": "f1bd6ac6ab1a3f1613aa8603caadc4d6a218e5df"
+    },
+    "audio/doop - sunshine [ ezmp3.cc ].mp3": {
+      "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
     },
     "example-data.json": {
       "sha": "f6e5ea94b1345c353eb1c69d5e2753df2c27e572"
@@ -252,7 +258,7 @@
     "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
       "sha": "0976b684f604dc2e0d3bbaf38bf9d04d1a0b7942"
     },
-    "md5": "17f971cfe7c1810473c997a0ae8c1f52",
+    "md5": "4f75b30ceff83a6438c1f26a9872759c",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
