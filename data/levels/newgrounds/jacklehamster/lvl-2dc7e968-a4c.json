@@ -1,7 +1,7 @@
 {
   "id": "lvl-2dc7e968-a4c",
   "created": 3440547629,
-  "updated": 1730026649482,
+  "updated": 1730026800737,
   "backgrounds": [
     "https%3A//cdn.dobuki.net/44f1452ad92bb2a63cec197962b774030146a21cdec3af359b40c2978cf5519c.jpg",
     "https%3A//power-troll-levels.dobuki.net/data/image/77893281_wide.jpg"
@@ -32,7 +32,8 @@
       "y": 387.6543209876543,
       "width": 64,
       "height": 64,
-      "frame": 4
+      "frame": 0,
+      "destination": "newgrounds/jacklehamster/lvl-2dc7e968-a4c"
     }
   },
   "key": {
