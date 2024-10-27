@@ -49,9 +49,9 @@
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "4c30d2fae668d3fce0f518d0538e56437167bfa8"
+      "sha": "572f8da312edf94fe401e92fbe85052a941ab2a3"
     },
-    "md5": "4ce5330355a5f131c338fec737a31e6e",
+    "md5": "bcdb959af7bd8b741bcf10ce0b80fff5",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -268,9 +268,9 @@
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "4c30d2fae668d3fce0f518d0538e56437167bfa8"
+      "sha": "572f8da312edf94fe401e92fbe85052a941ab2a3"
     },
-    "md5": "496dc2964f01a833681e1460c240daf6",
+    "md5": "03c49abcabef74bb4761c029c9188170",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -467,21 +467,21 @@
     "md5": "716387fb8b2b532bbe239b06c1d9f3fc"
   },
   "/data/levels/dir-json.json": {
-    "md5": "196b8fb5855918a831b03ea425609bc0",
+    "md5": "190df7874f787ddad646fd22b2713058",
     "newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "4c30d2fae668d3fce0f518d0538e56437167bfa8"
+      "sha": "572f8da312edf94fe401e92fbe85052a941ab2a3"
     }
   },
   "/data/levels/dir.json": {
-    "md5": "196b8fb5855918a831b03ea425609bc0",
+    "md5": "190df7874f787ddad646fd22b2713058",
     "newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "4c30d2fae668d3fce0f518d0538e56437167bfa8"
+      "sha": "572f8da312edf94fe401e92fbe85052a941ab2a3"
     }
   },
   "/data/levels/newgrounds/dir-json.json": {
@@ -489,36 +489,36 @@
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "4c30d2fae668d3fce0f518d0538e56437167bfa8"
+      "sha": "572f8da312edf94fe401e92fbe85052a941ab2a3"
     },
-    "md5": "539f8d11589b9fb64dabaeb0847fa537"
+    "md5": "90f4e5c2580775a9badadbdb9deed62b"
   },
   "/data/levels/newgrounds/dir.json": {
     "jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "jacklehamster/lvl-2dc7e968-a4c.json": {
-      "sha": "4c30d2fae668d3fce0f518d0538e56437167bfa8"
+      "sha": "572f8da312edf94fe401e92fbe85052a941ab2a3"
     },
-    "md5": "539f8d11589b9fb64dabaeb0847fa537"
+    "md5": "90f4e5c2580775a9badadbdb9deed62b"
   },
   "/data/levels/newgrounds/jacklehamster/dir-json.json": {
     "lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "lvl-2dc7e968-a4c.json": {
-      "sha": "4c30d2fae668d3fce0f518d0538e56437167bfa8"
+      "sha": "572f8da312edf94fe401e92fbe85052a941ab2a3"
     },
-    "md5": "896b2845c4600c9e43a682506847a415"
+    "md5": "038ca9f47c616f458929d5259e633c5e"
   },
   "/data/levels/newgrounds/jacklehamster/dir.json": {
     "lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "lvl-2dc7e968-a4c.json": {
-      "sha": "4c30d2fae668d3fce0f518d0538e56437167bfa8"
+      "sha": "572f8da312edf94fe401e92fbe85052a941ab2a3"
     },
-    "md5": "896b2845c4600c9e43a682506847a415"
+    "md5": "038ca9f47c616f458929d5259e633c5e"
   },
   "/data/levels/newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
     "id": "lvl-1ecdc548-0bb",
@@ -574,7 +574,7 @@
   "/data/levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "id": "lvl-2dc7e968-a4c",
     "created": 3440547629,
-    "updated": 1730026649482,
+    "updated": 1730026800737,
     "backgrounds": [
       "https%3A//cdn.dobuki.net/44f1452ad92bb2a63cec197962b774030146a21cdec3af359b40c2978cf5519c.jpg",
       "https%3A//power-troll-levels.dobuki.net/data/image/77893281_wide.jpg"
@@ -605,7 +605,8 @@
         "y": 387.6543209876543,
         "width": 64,
         "height": 64,
-        "frame": 4
+        "frame": 0,
+        "destination": "newgrounds/jacklehamster/lvl-2dc7e968-a4c"
       }
     },
     "key": {
