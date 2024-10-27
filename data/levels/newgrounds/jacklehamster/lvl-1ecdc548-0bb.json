@@ -1,0 +1,48 @@
+{
+  "id": "lvl-1ecdc548-0bb",
+  "created": 1730022007261,
+  "updated": 1730022086187,
+  "key": {
+    "key1": {
+      "x": 500.61652281134405,
+      "y": 485.18518518518516,
+      "width": 45,
+      "height": 45,
+      "frame": 0
+    }
+  },
+  "door": {
+    "door1": {
+      "x": 586.9297163995068,
+      "y": 497.53086419753083,
+      "width": 64,
+      "height": 64,
+      "frame": 4
+    }
+  },
+  "ground": {
+    "ground1": {
+      "x": 586,
+      "y": 552,
+      "width": 50,
+      "height": 50
+    },
+    "ground2": {
+      "x": 369,
+      "y": 554,
+      "width": 50,
+      "height": 50
+    }
+  },
+  "profile": {
+    "username": "jacklehamster",
+    "type": "newgrounds"
+  },
+  "hidden": true,
+  "music": {
+    "title": "doop - sunshine %5B ezmp3",
+    "url": "https%3A//cdn.dobuki.net/abed498a5b1e17be1ebc466d277c86548578ceb1dce6100a184712cfe67fe333.bin",
+    "backupUrl": "https%3A//power-troll-levels.dobuki.net/data/audio/doop%2520-%2520sunshine%2520%255B%2520ezmp3.cc%2520%255D.mp3"
+  },
+  "version": 1
+}
