@@ -18,6 +18,9 @@
     "Trouble Maker (현아,장현승) - Trouble Maker (Audio).mp3": {
       "sha": "68ea8f5c01a17c7d4228be604f3b3d3d5b3d79ea"
     },
+    "Vladimir Cosma - Sirba (Le Grand Blond avec une Chaussure Noire) [ ezmp3.cc ].mp3": {
+      "sha": "f0ae0beb3058dab1ee47794a6774783c14d86f48"
+    },
     "[MV] 볼빨간사춘기 - Love Letter [스타트업 OST Part.12 (START-UP OST Part.12)] [ ezmp3.cc ].mp3": {
       "sha": "97df9d25575961a3dcbb55db6888fe8b38f6cc16"
     },
@@ -27,7 +30,7 @@
     "beep-bop-troll.ogg": {
       "sha": "f1bd6ac6ab1a3f1613aa8603caadc4d6a218e5df"
     },
-    "md5": "de762fcf29da3f9a13d7fcec76e95d97"
+    "md5": "f0560fb8321b739d94ed1fd6f3b24f22"
   },
   "/data/dir-json.json": {
     "example-data.json": {
@@ -62,6 +65,9 @@
     },
     "audio/Trouble Maker (현아,장현승) - Trouble Maker (Audio).mp3": {
       "sha": "68ea8f5c01a17c7d4228be604f3b3d3d5b3d79ea"
+    },
+    "audio/Vladimir Cosma - Sirba (Le Grand Blond avec une Chaussure Noire) [ ezmp3.cc ].mp3": {
+      "sha": "f0ae0beb3058dab1ee47794a6774783c14d86f48"
     },
     "audio/[MV] 볼빨간사춘기 - Love Letter [스타트업 OST Part.12 (START-UP OST Part.12)] [ ezmp3.cc ].mp3": {
       "sha": "97df9d25575961a3dcbb55db6888fe8b38f6cc16"
@@ -240,7 +246,7 @@
     "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
       "sha": "0976b684f604dc2e0d3bbaf38bf9d04d1a0b7942"
     },
-    "md5": "5969e45bcb4e13c3f832893cd3803a22",
+    "md5": "ed2dfab363dd62f59ce94abe420340cc",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
