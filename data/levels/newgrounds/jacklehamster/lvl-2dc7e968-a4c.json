@@ -1,7 +1,7 @@
 {
   "id": "lvl-2dc7e968-a4c",
   "created": 3440547629,
-  "updated": 1730065766585,
+  "updated": 1730067110545,
   "backgrounds": [
     "https%3A//cdn.dobuki.net/44f1452ad92bb2a63cec197962b774030146a21cdec3af359b40c2978cf5519c.jpg",
     "https%3A//power-troll-levels.dobuki.net/data/image/77893281_wide.jpg"
@@ -63,7 +63,7 @@
       "gift": 0
     },
     "vase2": {
-      "x": 635,
+      "x": 626,
       "y": 545,
       "width": 64,
       "height": 64,
@@ -90,7 +90,7 @@
     "backupUrl": "https%3A//power-troll-levels.dobuki.net/data/audio/Doop%2520-%2520My%2520Chihuahua%2520%255B%2520ezmp3.cc%2520%255D.mp3"
   },
   "hidden": true,
-  "version": 5,
+  "version": 6,
   "url": "",
   "autoNext": true,
   "community": false,
