@@ -1,7 +1,7 @@
 {
   "id": "lvl-2dc7e968-a4c",
   "created": 3440547629,
-  "updated": 1730058502826,
+  "updated": 1730063616482,
   "backgrounds": [
     "https%3A//cdn.dobuki.net/44f1452ad92bb2a63cec197962b774030146a21cdec3af359b40c2978cf5519c.jpg",
     "https%3A//power-troll-levels.dobuki.net/data/image/77893281_wide.jpg"
@@ -23,7 +23,8 @@
       "x": 466.0912453760789,
       "y": 204.93827160493825,
       "width": 50,
-      "height": 50
+      "height": 50,
+      "art": true
     }
   },
   "door": {
@@ -53,6 +54,22 @@
       "height": 64,
       "frame": 86,
       "gift": 0
+    },
+    "vase2": {
+      "x": 635,
+      "y": 545,
+      "width": 64,
+      "height": 64,
+      "frame": 86,
+      "gift": 0
+    },
+    "vase3": {
+      "x": 540,
+      "y": 559,
+      "width": 64,
+      "height": 64,
+      "frame": 86,
+      "gift": 0
     }
   },
   "profile": {
@@ -66,8 +83,21 @@
     "backupUrl": "https%3A//power-troll-levels.dobuki.net/data/audio/Doop%2520-%2520My%2520Chihuahua%2520%255B%2520ezmp3.cc%2520%255D.mp3"
   },
   "hidden": true,
-  "version": 3,
+  "version": 4,
   "url": "",
   "autoNext": true,
-  "community": false
+  "community": false,
+  "cutscenes": {
+    "intro": {
+      "scenes": [
+        {
+          "bg": "",
+          "text": "",
+          "audio": "",
+          "repeat": false,
+          "fade": true
+        }
+      ]
+    }
+  }
 }
