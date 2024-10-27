@@ -437,58 +437,40 @@
     "md5": "716387fb8b2b532bbe239b06c1d9f3fc"
   },
   "/data/levels/dir-json.json": {
-    "md5": "f6362780005a3f34ce711cf2c5e7f336",
+    "md5": "621ddc1b8c81fe517fe9cfb60b1bf747",
     "newgrounds/jacklehamster/lvl-83226c30-592.json": {
       "sha": "95e6d79b8093fb8ec2f868d4b91cb00724acb4d2"
-    },
-    "newgrounds/jacklehamster/lvl-a4f53527-456.json": {
-      "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
     }
   },
   "/data/levels/dir.json": {
-    "md5": "f6362780005a3f34ce711cf2c5e7f336",
+    "md5": "621ddc1b8c81fe517fe9cfb60b1bf747",
     "newgrounds/jacklehamster/lvl-83226c30-592.json": {
       "sha": "95e6d79b8093fb8ec2f868d4b91cb00724acb4d2"
-    },
-    "newgrounds/jacklehamster/lvl-a4f53527-456.json": {
-      "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
     }
   },
   "/data/levels/newgrounds/dir-json.json": {
     "jacklehamster/lvl-83226c30-592.json": {
       "sha": "95e6d79b8093fb8ec2f868d4b91cb00724acb4d2"
     },
-    "jacklehamster/lvl-a4f53527-456.json": {
-      "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
-    },
-    "md5": "4675413dc4605e5884a5126139e2729f"
+    "md5": "b8ee2c6b8f9ccae30ce5250449bfb4aa"
   },
   "/data/levels/newgrounds/dir.json": {
     "jacklehamster/lvl-83226c30-592.json": {
       "sha": "95e6d79b8093fb8ec2f868d4b91cb00724acb4d2"
     },
-    "jacklehamster/lvl-a4f53527-456.json": {
-      "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
-    },
-    "md5": "4675413dc4605e5884a5126139e2729f"
+    "md5": "b8ee2c6b8f9ccae30ce5250449bfb4aa"
   },
   "/data/levels/newgrounds/jacklehamster/dir-json.json": {
     "lvl-83226c30-592.json": {
       "sha": "95e6d79b8093fb8ec2f868d4b91cb00724acb4d2"
     },
-    "lvl-a4f53527-456.json": {
-      "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
-    },
-    "md5": "12fae5f3b2c164ab73d9d124475784e2"
+    "md5": "2b647e67b7dfe7433e93cef81456b0c0"
   },
   "/data/levels/newgrounds/jacklehamster/dir.json": {
     "lvl-83226c30-592.json": {
       "sha": "95e6d79b8093fb8ec2f868d4b91cb00724acb4d2"
     },
-    "lvl-a4f53527-456.json": {
-      "sha": "ccfd506f7882cc4f1fdc3295ad7a4b5a61f4632e"
-    },
-    "md5": "12fae5f3b2c164ab73d9d124475784e2"
+    "md5": "2b647e67b7dfe7433e93cef81456b0c0"
   },
   "/data/levels/newgrounds/jacklehamster/lvl-83226c30-592.json": {
     "id": "lvl-83226c30-592",
@@ -632,48 +614,6 @@
         "height": 48,
         "frame": 0
       }
-    }
-  },
-  "/data/levels/newgrounds/jacklehamster/lvl-a4f53527-456.json": {
-    "id": "lvl-a4f53527-456",
-    "profile": {
-      "username": "jacklehamster",
-      "type": "newgrounds"
-    },
-    "hidden": true,
-    "title": "Custom Test Level",
-    "music": {
-      "title": "%5BMV%5D %E1%84%89%E1%85%AE%E1%84%8C%E1%85%B5 - My Dear Love %5B%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A5%E1%86%B8 OST ",
-      "url": "https%3A//cdn.dobuki.net/41e5c4a405eb35595e679899a83f9655139b9d7b97fa028631f77e19ecc4ab58.mp3",
-      "backupUrl": "https%3A//jacklehamster.github.io/power-troll-levels/data/audio/%255BMV%255D%2520%25E1%2584%2589%25E1%2585%25AE%25E1%2584%258C%25E1%2585%25B5%2520-%2520My%2520Dear%2520Love%2520%255B%25E1%2584%2589%25E1%2585%25B3%25E1%2584%2590%25E1%2585%25A1%25E1%2584%2590%25E1%2585%25B3%25E1%2584%258B%25E1%2585%25A5%25E1%2586%25B8%2520OST%2520Part.14%2520(START-UP%2520OST%2520Part.14)%255D%2520%255B%2520ezmp3.cc%2520%255D.mp3"
-    },
-    "door": {
-      "door1": {
-        "x": 317.2242874845105,
-        "y": 421.48760330578517,
-        "width": 64,
-        "height": 64,
-        "frame": 4
-      }
-    },
-    "key": {
-      "key1": {
-        "x": 503.09789343246587,
-        "y": 381.81818181818187,
-        "width": 45,
-        "height": 45,
-        "frame": 0
-      }
-    },
-    "version": 6,
-    "url": "",
-    "updated": 1729838306789,
-    "backgrounds": [
-      "https%3A//cdn.dobuki.net/ab4a1b233f0a23c271f9dd5bf30858d733e1bad9037f5c0d2a60e24f8de20de3.png",
-      "https%3A//jacklehamster.github.io/power-troll-levels/data/image/dobuki-logo.png"
-    ],
-    "attribution": {
-      "music": "Love"
     }
   },
   "/data/user/dir-json.json": {
