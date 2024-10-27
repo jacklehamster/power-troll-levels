@@ -1,7 +1,7 @@
 {
   "id": "lvl-1ecdc548-0bb",
   "created": 3445154269,
-  "updated": 1730026543390,
+  "updated": 1730026688640,
   "key": {
     "key1": {
       "x": 500.61652281134405,
@@ -46,5 +46,6 @@
     "backupUrl": "https%3A//power-troll-levels.dobuki.net/data/audio/doop%2520-%2520sunshine%2520%255B%2520ezmp3.cc%2520%255D.mp3"
   },
   "version": 2,
-  "url": ""
+  "url": "",
+  "autoNext": true
 }
