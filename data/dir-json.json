@@ -1,24 +1,15 @@
 {
   "example-data.json": {
-    "sha": "d98cf96ba7d58b0ccafff1a04b477f4c55fe5148"
+    "sha": "f6e5ea94b1345c353eb1c69d5e2753df2c27e572"
   },
   "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
-    "sha": "d98cf96ba7d58b0ccafff1a04b477f4c55fe5148"
+    "sha": "0976b684f604dc2e0d3bbaf38bf9d04d1a0b7942"
   },
-  "levels/newgrounds/jacklehamster/lvl-83226c30-592.json": {
-    "sha": "d98cf96ba7d58b0ccafff1a04b477f4c55fe5148"
-  },
-  "levels/newgrounds/jacklehamster/lvl-a4f53527-456.json": {
-    "sha": "d98cf96ba7d58b0ccafff1a04b477f4c55fe5148"
-  },
-  "levels/newgrounds/jacklehamster/lvl-e7b0e37b-44a.json": {
-    "sha": "d98cf96ba7d58b0ccafff1a04b477f4c55fe5148"
-  },
-  "md5": "c30f3174d48d475b95d54c31924c453e",
+  "md5": "fb02aba8f069a8077afade2df813ab63",
   "user/vincent/levels.json": {
-    "sha": "d98cf96ba7d58b0ccafff1a04b477f4c55fe5148"
+    "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },
   "user/vincent/profile.json": {
-    "sha": "d98cf96ba7d58b0ccafff1a04b477f4c55fe5148"
+    "sha": "071fc6a9e108c6abb8913da83d9e1e08de326094"
   }
 }
