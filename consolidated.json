@@ -12,6 +12,9 @@
     "Doop - Doop [ ezmp3.cc ].mp3": {
       "sha": "e4347f2a57679e94c9f6a22b8066c1569822563c"
     },
+    "Doop - My Chihuahua [ ezmp3.cc ].mp3": {
+      "sha": "62bd8893123fd8f426163f598bd1ba1d9c2fd122"
+    },
     "TheologyCivilization - Conan the Barbarian Theme (Basil Poledouris) [ ezmp3.cc ].mp3": {
       "sha": "73ffdf484a046de66775414c84b1bae7a8e27f4e"
     },
@@ -30,7 +33,7 @@
     "beep-bop-troll.ogg": {
       "sha": "f1bd6ac6ab1a3f1613aa8603caadc4d6a218e5df"
     },
-    "md5": "f0560fb8321b739d94ed1fd6f3b24f22"
+    "md5": "875842282ec8138b468d5ed3b02b6afc"
   },
   "/data/dir-json.json": {
     "example-data.json": {
@@ -59,6 +62,9 @@
     },
     "audio/Doop - Doop [ ezmp3.cc ].mp3": {
       "sha": "e4347f2a57679e94c9f6a22b8066c1569822563c"
+    },
+    "audio/Doop - My Chihuahua [ ezmp3.cc ].mp3": {
+      "sha": "62bd8893123fd8f426163f598bd1ba1d9c2fd122"
     },
     "audio/TheologyCivilization - Conan the Barbarian Theme (Basil Poledouris) [ ezmp3.cc ].mp3": {
       "sha": "73ffdf484a046de66775414c84b1bae7a8e27f4e"
@@ -246,7 +252,7 @@
     "level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
       "sha": "0976b684f604dc2e0d3bbaf38bf9d04d1a0b7942"
     },
-    "md5": "ed2dfab363dd62f59ce94abe420340cc",
+    "md5": "17f971cfe7c1810473c997a0ae8c1f52",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
