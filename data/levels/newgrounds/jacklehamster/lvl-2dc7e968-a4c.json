@@ -1,0 +1,69 @@
+{
+  "id": "lvl-2dc7e968-a4c",
+  "created": 1730017400621,
+  "updated": 1730021630174,
+  "backgrounds": [
+    "https%3A//cdn.dobuki.net/44f1452ad92bb2a63cec197962b774030146a21cdec3af359b40c2978cf5519c.jpg",
+    "https%3A//power-troll-levels.dobuki.net/data/image/77893281_wide.jpg"
+  ],
+  "ground": {
+    "ground1": {
+      "x": 623,
+      "y": 316,
+      "width": 160,
+      "height": 50
+    },
+    "ground2": {
+      "x": 837,
+      "y": 441,
+      "width": 235,
+      "height": 50
+    },
+    "ground3": {
+      "x": 466.0912453760789,
+      "y": 204.93827160493825,
+      "width": 50,
+      "height": 50
+    }
+  },
+  "door": {
+    "door1": {
+      "x": 938.347718865598,
+      "y": 387.6543209876543,
+      "width": 64,
+      "height": 64,
+      "frame": 4
+    }
+  },
+  "key": {
+    "key1": {
+      "x": 467.32429099876697,
+      "y": 148.14814814814815,
+      "width": 45,
+      "height": 45,
+      "frame": 0
+    }
+  },
+  "vase": {
+    "vase1": {
+      "x": 452.5277435265105,
+      "y": 509.8765432098765,
+      "width": 64,
+      "height": 64,
+      "frame": 86,
+      "gift": 0
+    }
+  },
+  "profile": {
+    "username": "jacklehamster",
+    "type": "newgrounds"
+  },
+  "title": "Test Level",
+  "music": {
+    "title": "Doop - My Chihuahua %5B ezmp3",
+    "url": "https%3A//cdn.dobuki.net/10c6a8c665f5a7969a5c963ee5ac4363570f79f667e463c593cc3ab4f6f1bc83.mp3",
+    "backupUrl": "https%3A//power-troll-levels.dobuki.net/data/audio/Doop%2520-%2520My%2520Chihuahua%2520%255B%2520ezmp3.cc%2520%255D.mp3"
+  },
+  "hidden": true,
+  "version": 1
+}
