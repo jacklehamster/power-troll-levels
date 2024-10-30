@@ -168,6 +168,9 @@
     "image/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
+    "image/dragon-over-export.png": {
+      "sha": "0e8c8102b3c5009bfb66f674dece24f62f3b891c"
+    },
     "image/eca048a9-02bc-4844-b27d-3f77d4cf5f69.png": {
       "sha": "999196835e4302ac5c537073aa030a3a9dc1140b"
     },
@@ -276,7 +279,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "01d2cdcd8a3f343bc027e467e3912715",
+    "md5": "fe240676dce595cfd59ed6826de9a2ce",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -358,6 +361,9 @@
     "dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
+    "dragon-over-export.png": {
+      "sha": "0e8c8102b3c5009bfb66f674dece24f62f3b891c"
+    },
     "eca048a9-02bc-4844-b27d-3f77d4cf5f69.png": {
       "sha": "999196835e4302ac5c537073aa030a3a9dc1140b"
     },
@@ -418,7 +424,7 @@
     "lvl1-overlay - Edited.png": {
       "sha": "a69e6970e08483d931a10abdcc19995e27c0e1e7"
     },
-    "md5": "22235264a31ed13e852c5518d390c405",
+    "md5": "2cb38967267ea9f82a6e28a4d78e3632",
     "ovvla.png": {
       "sha": "ad3a0a1005cf9def194f15b00fd8c47cdd40d03d"
     },
