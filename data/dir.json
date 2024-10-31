@@ -98,6 +98,9 @@
   "image/creatingvideoandvideogames-preview.png": {
     "sha": "f3c6e42a1b5da2b0bbdfc03ac5ebe56fe5f16e4a"
   },
+  "image/cutscene/images/newgrounds/jacklehamster/__big.jpg": {
+    "sha": "cb51699fc148292fe007c378981f2239624a02be"
+  },
   "image/d115cd22-94fc-4b9f-b079-762469f85114.png": {
     "sha": "78fe7520e8cd695b86a13bce06d80bd958748c94"
   },
@@ -218,7 +221,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "fe240676dce595cfd59ed6826de9a2ce",
+  "md5": "6d22522dd556a13580c63e6da8cccbcf",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },

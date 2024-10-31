@@ -159,6 +159,9 @@
     "image/creatingvideoandvideogames-preview.png": {
       "sha": "f3c6e42a1b5da2b0bbdfc03ac5ebe56fe5f16e4a"
     },
+    "image/cutscene/images/newgrounds/jacklehamster/__big.jpg": {
+      "sha": "cb51699fc148292fe007c378981f2239624a02be"
+    },
     "image/d115cd22-94fc-4b9f-b079-762469f85114.png": {
       "sha": "78fe7520e8cd695b86a13bce06d80bd958748c94"
     },
@@ -279,7 +282,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "fe240676dce595cfd59ed6826de9a2ce",
+    "md5": "6d22522dd556a13580c63e6da8cccbcf",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -290,6 +293,30 @@
   "/data/example-data.json": {
     "Hello": "World",
     "now": "Thu Oct 17 2024 00:20:39 GMT-0700 (Pacific Daylight Time)"
+  },
+  "/data/image/cutscene/dir.json": {
+    "images/newgrounds/jacklehamster/__big.jpg": {
+      "sha": "cb51699fc148292fe007c378981f2239624a02be"
+    },
+    "md5": "6eab63cbacb354ed75055981f74d0d3a"
+  },
+  "/data/image/cutscene/images/dir.json": {
+    "md5": "c640854479692cd1b497c05addecf900",
+    "newgrounds/jacklehamster/__big.jpg": {
+      "sha": "cb51699fc148292fe007c378981f2239624a02be"
+    }
+  },
+  "/data/image/cutscene/images/newgrounds/dir.json": {
+    "jacklehamster/__big.jpg": {
+      "sha": "cb51699fc148292fe007c378981f2239624a02be"
+    },
+    "md5": "1a33447a048229f3310693b4581e7563"
+  },
+  "/data/image/cutscene/images/newgrounds/jacklehamster/dir.json": {
+    "__big.jpg": {
+      "sha": "cb51699fc148292fe007c378981f2239624a02be"
+    },
+    "md5": "cef4113594b7585e5efea4395527a60b"
   },
   "/data/image/dir.json": {
     "00f44413-c223-48c5-88f1-aa21a3778950.png": {
@@ -351,6 +378,9 @@
     },
     "creatingvideoandvideogames-preview.png": {
       "sha": "f3c6e42a1b5da2b0bbdfc03ac5ebe56fe5f16e4a"
+    },
+    "cutscene/images/newgrounds/jacklehamster/__big.jpg": {
+      "sha": "cb51699fc148292fe007c378981f2239624a02be"
     },
     "d115cd22-94fc-4b9f-b079-762469f85114.png": {
       "sha": "78fe7520e8cd695b86a13bce06d80bd958748c94"
@@ -424,7 +454,7 @@
     "lvl1-overlay - Edited.png": {
       "sha": "a69e6970e08483d931a10abdcc19995e27c0e1e7"
     },
-    "md5": "2cb38967267ea9f82a6e28a4d78e3632",
+    "md5": "f5aff05104374f494fd9787af791cd9d",
     "ovvla.png": {
       "sha": "ad3a0a1005cf9def194f15b00fd8c47cdd40d03d"
     },
