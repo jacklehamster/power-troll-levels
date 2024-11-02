@@ -185,6 +185,9 @@
   "image/platforms.png": {
     "sha": "a7791708874cbb2229952129ddab318a821eb1d1"
   },
+  "image/power-troll/newgrounds/jacklehamster/overlay1 (1).png": {
+    "sha": "8e85e034aa6b9f5c937e687e0e19c615b8af48bf"
+  },
   "image/powetro.png": {
     "sha": "2c073672f9cc517849f87eb63b252205fd2208ef"
   },
@@ -221,7 +224,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "6d22522dd556a13580c63e6da8cccbcf",
+  "md5": "58ab815fe547e327ffb08dc97320f666",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },

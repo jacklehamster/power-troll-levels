@@ -246,6 +246,9 @@
     "image/platforms.png": {
       "sha": "a7791708874cbb2229952129ddab318a821eb1d1"
     },
+    "image/power-troll/newgrounds/jacklehamster/overlay1 (1).png": {
+      "sha": "8e85e034aa6b9f5c937e687e0e19c615b8af48bf"
+    },
     "image/powetro.png": {
       "sha": "2c073672f9cc517849f87eb63b252205fd2208ef"
     },
@@ -282,7 +285,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "6d22522dd556a13580c63e6da8cccbcf",
+    "md5": "58ab815fe547e327ffb08dc97320f666",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -454,7 +457,7 @@
     "lvl1-overlay - Edited.png": {
       "sha": "a69e6970e08483d931a10abdcc19995e27c0e1e7"
     },
-    "md5": "f5aff05104374f494fd9787af791cd9d",
+    "md5": "44086ab06e2eb23b82ec90693857c4f4",
     "ovvla.png": {
       "sha": "ad3a0a1005cf9def194f15b00fd8c47cdd40d03d"
     },
@@ -466,6 +469,9 @@
     },
     "platforms.png": {
       "sha": "a7791708874cbb2229952129ddab318a821eb1d1"
+    },
+    "power-troll/newgrounds/jacklehamster/overlay1 (1).png": {
+      "sha": "8e85e034aa6b9f5c937e687e0e19c615b8af48bf"
     },
     "powetro.png": {
       "sha": "2c073672f9cc517849f87eb63b252205fd2208ef"
@@ -493,6 +499,24 @@
     },
     "vampire.png": {
       "sha": "87bc6d785b9847dd0f5dda61649f1e68b78eae83"
+    }
+  },
+  "/data/image/power-troll/dir.json": {
+    "md5": "da8c82e5480410caed7f3a4b2bb98c14",
+    "newgrounds/jacklehamster/overlay1 (1).png": {
+      "sha": "8e85e034aa6b9f5c937e687e0e19c615b8af48bf"
+    }
+  },
+  "/data/image/power-troll/newgrounds/dir.json": {
+    "jacklehamster/overlay1 (1).png": {
+      "sha": "8e85e034aa6b9f5c937e687e0e19c615b8af48bf"
+    },
+    "md5": "f10e1dd778d61c62f00f231283a413a4"
+  },
+  "/data/image/power-troll/newgrounds/jacklehamster/dir.json": {
+    "md5": "f0b54e0895f1aa13e1972d04475ebb33",
+    "overlay1 (1).png": {
+      "sha": "8e85e034aa6b9f5c937e687e0e19c615b8af48bf"
     }
   },
   "/data/level/1VZwY667fa74fPX9MdI9dM4CasPjxyk5.json": {
