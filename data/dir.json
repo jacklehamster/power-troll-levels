@@ -32,6 +32,9 @@
   "audio/beep-bop-troll.ogg": {
     "sha": "f1bd6ac6ab1a3f1613aa8603caadc4d6a218e5df"
   },
+  "audio/cutscene/audio/default/user/trumpet.mp3": {
+    "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
+  },
   "audio/doop - sunshine [ ezmp3.cc ].mp3": {
     "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
   },
@@ -224,7 +227,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "58ab815fe547e327ffb08dc97320f666",
+  "md5": "a7d2af3c3e21e6543834a6b07497dfdd",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },

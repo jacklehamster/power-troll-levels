@@ -1,4 +1,28 @@
 {
+  "/data/audio/cutscene/audio/default/dir.json": {
+    "md5": "a9215ced7486233430e80bfb6ceb54e4",
+    "user/trumpet.mp3": {
+      "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
+    }
+  },
+  "/data/audio/cutscene/audio/default/user/dir.json": {
+    "md5": "919f8de6c8a47322f4d6b4e118a20c0d",
+    "trumpet.mp3": {
+      "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
+    }
+  },
+  "/data/audio/cutscene/audio/dir.json": {
+    "default/user/trumpet.mp3": {
+      "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
+    },
+    "md5": "0012a991984322dd041d38afd109e304"
+  },
+  "/data/audio/cutscene/dir.json": {
+    "audio/default/user/trumpet.mp3": {
+      "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
+    },
+    "md5": "6b912baa9e4e63ce4cde253369b0c5d4"
+  },
   "/data/audio/dir.json": {
     "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ] (1).mp3": {
       "sha": "7de8065eb2c2c2332fb3b5e1a43b85b0c0d77358"
@@ -33,10 +57,13 @@
     "beep-bop-troll.ogg": {
       "sha": "f1bd6ac6ab1a3f1613aa8603caadc4d6a218e5df"
     },
+    "cutscene/audio/default/user/trumpet.mp3": {
+      "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
+    },
     "doop - sunshine [ ezmp3.cc ].mp3": {
       "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
     },
-    "md5": "f3bacc9a38bce5bc24f6de40631306a9"
+    "md5": "5d770f945035c78d85f34b797fe43f10"
   },
   "/data/dir-json.json": {
     "example-data.json": {
@@ -92,6 +119,9 @@
     },
     "audio/beep-bop-troll.ogg": {
       "sha": "f1bd6ac6ab1a3f1613aa8603caadc4d6a218e5df"
+    },
+    "audio/cutscene/audio/default/user/trumpet.mp3": {
+      "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     },
     "audio/doop - sunshine [ ezmp3.cc ].mp3": {
       "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
@@ -285,7 +315,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "58ab815fe547e327ffb08dc97320f666",
+    "md5": "a7d2af3c3e21e6543834a6b07497dfdd",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
