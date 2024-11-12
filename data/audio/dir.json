@@ -35,6 +35,9 @@
   "cutscene/audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
     "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
   },
+  "cutscene/audio/default/user/scratch.mp3": {
+    "sha": "e1c2126fac13722bdc10c0d28954ba9e8a7f7f6b"
+  },
   "cutscene/audio/default/user/trumpet.mp3": {
     "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
   },
@@ -53,5 +56,5 @@
   "doop - sunshine [ ezmp3.cc ].mp3": {
     "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
   },
-  "md5": "5f6ba887ea3f6c53e11ad828cae83b43"
+  "md5": "5415a23cd61b9ae279d0b7880af24b2f"
 }

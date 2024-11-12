@@ -1,8 +1,11 @@
 {
   "/data/audio/cutscene/audio/default/dir.json": {
-    "md5": "f2b06edcaca94268406a4fd710c9b5ed",
+    "md5": "24467835655240b3d7d6cf5b4f43b5b0",
     "user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
+    },
+    "user/scratch.mp3": {
+      "sha": "e1c2126fac13722bdc10c0d28954ba9e8a7f7f6b"
     },
     "user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
@@ -12,7 +15,10 @@
     "1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
     },
-    "md5": "d5a67de235baa4642299b200cb28617d",
+    "md5": "54001e9b01abaa5329e16f4aa225f937",
+    "scratch.mp3": {
+      "sha": "e1c2126fac13722bdc10c0d28954ba9e8a7f7f6b"
+    },
     "trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     }
@@ -21,10 +27,13 @@
     "default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
     },
+    "default/user/scratch.mp3": {
+      "sha": "e1c2126fac13722bdc10c0d28954ba9e8a7f7f6b"
+    },
     "default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     },
-    "md5": "778b73d19a4d6d4bd6af95a412889cb3",
+    "md5": "da831e9b2cdcafa40d0469d7441e3472",
     "newgrounds/jacklehamster/1184476_Strolling-Jamuary-3-2023.mp3": {
       "sha": "cfe64828ab3da5dc9ba86ffa3f894bdd970a16dc"
     },
@@ -72,6 +81,9 @@
     "audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
     },
+    "audio/default/user/scratch.mp3": {
+      "sha": "e1c2126fac13722bdc10c0d28954ba9e8a7f7f6b"
+    },
     "audio/default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     },
@@ -87,7 +99,7 @@
     "audio/newgrounds/jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
       "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
     },
-    "md5": "96dbd2b678161ec8443ce934d735f28f"
+    "md5": "38c687e9a69bf0f90f851c7765a3215c"
   },
   "/data/audio/dir.json": {
     "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ] (1).mp3": {
@@ -126,6 +138,9 @@
     "cutscene/audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
     },
+    "cutscene/audio/default/user/scratch.mp3": {
+      "sha": "e1c2126fac13722bdc10c0d28954ba9e8a7f7f6b"
+    },
     "cutscene/audio/default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     },
@@ -144,7 +159,7 @@
     "doop - sunshine [ ezmp3.cc ].mp3": {
       "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
     },
-    "md5": "5f6ba887ea3f6c53e11ad828cae83b43"
+    "md5": "5415a23cd61b9ae279d0b7880af24b2f"
   },
   "/data/dir-json.json": {
     "example-data.json": {
@@ -203,6 +218,9 @@
     },
     "audio/cutscene/audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
+    },
+    "audio/cutscene/audio/default/user/scratch.mp3": {
+      "sha": "e1c2126fac13722bdc10c0d28954ba9e8a7f7f6b"
     },
     "audio/cutscene/audio/default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
@@ -420,7 +438,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "0f5ee301c1fcd3081e7a47ec6b8ad1a6",
+    "md5": "1649927fadfdb45a777c1dee739e6da6",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
