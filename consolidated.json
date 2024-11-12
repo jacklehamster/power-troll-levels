@@ -24,7 +24,7 @@
     "default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     },
-    "md5": "9ed963fe012c938fc6ccfd03058b1b38",
+    "md5": "778b73d19a4d6d4bd6af95a412889cb3",
     "newgrounds/jacklehamster/1184476_Strolling-Jamuary-3-2023.mp3": {
       "sha": "cfe64828ab3da5dc9ba86ffa3f894bdd970a16dc"
     },
@@ -33,6 +33,9 @@
     },
     "newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
+    },
+    "newgrounds/jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
+      "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
     }
   },
   "/data/audio/cutscene/audio/newgrounds/dir.json": {
@@ -45,7 +48,10 @@
     "jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
     },
-    "md5": "189ab30593de5fd90822ebee732a1288"
+    "jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
+      "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
+    },
+    "md5": "c4a7b8226a241c254be55c314724d4d2"
   },
   "/data/audio/cutscene/audio/newgrounds/jacklehamster/dir.json": {
     "1184476_Strolling-Jamuary-3-2023.mp3": {
@@ -54,9 +60,12 @@
     "big-thunder-clap-99753-[AudioTrimmer.com].mp3": {
       "sha": "5c880a26b18aadf92069e69fad9a9f9f9faa760c"
     },
-    "md5": "7b9a3073c8a55bf842ce3af6dcc99365",
+    "md5": "d3ae7b6986da16dbd55a8888b3ff5356",
     "toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
+    },
+    "water-drop-85731 (mp3cut.net).mp3": {
+      "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
     }
   },
   "/data/audio/cutscene/dir.json": {
@@ -75,7 +84,10 @@
     "audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
     },
-    "md5": "3f014d19109c09469359b3b61daa55c9"
+    "audio/newgrounds/jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
+      "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
+    },
+    "md5": "96dbd2b678161ec8443ce934d735f28f"
   },
   "/data/audio/dir.json": {
     "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ] (1).mp3": {
@@ -126,10 +138,13 @@
     "cutscene/audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
     },
+    "cutscene/audio/newgrounds/jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
+      "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
+    },
     "doop - sunshine [ ezmp3.cc ].mp3": {
       "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
     },
-    "md5": "e3debddfa8fdbee2a63045b4fd949b5f"
+    "md5": "5f6ba887ea3f6c53e11ad828cae83b43"
   },
   "/data/dir-json.json": {
     "example-data.json": {
@@ -200,6 +215,9 @@
     },
     "audio/cutscene/audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
+    },
+    "audio/cutscene/audio/newgrounds/jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
+      "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
     },
     "audio/doop - sunshine [ ezmp3.cc ].mp3": {
       "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
@@ -402,7 +420,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "2a5b17e198a6be53273bb4a3871a2d75",
+    "md5": "0f5ee301c1fcd3081e7a47ec6b8ad1a6",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },

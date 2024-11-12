@@ -47,6 +47,9 @@
   "audio/cutscene/audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
     "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
   },
+  "audio/cutscene/audio/newgrounds/jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
+    "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
+  },
   "audio/doop - sunshine [ ezmp3.cc ].mp3": {
     "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
   },
@@ -248,7 +251,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "2a5b17e198a6be53273bb4a3871a2d75",
+  "md5": "0f5ee301c1fcd3081e7a47ec6b8ad1a6",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },
