@@ -24,7 +24,22 @@
     "default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     },
-    "md5": "5b0b03fbcfe2da510be94e19fbce3926"
+    "md5": "2b3b095b83c81a16112d28f4873fe3f3",
+    "newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
+      "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
+    }
+  },
+  "/data/audio/cutscene/audio/newgrounds/dir.json": {
+    "jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
+      "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
+    },
+    "md5": "905bddb234eb89ed66383b472bd139a8"
+  },
+  "/data/audio/cutscene/audio/newgrounds/jacklehamster/dir.json": {
+    "md5": "a04c9b3ba92e2f602a798537bd543227",
+    "toilet-flush-106040 (mp3cut.net).mp3": {
+      "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
+    }
   },
   "/data/audio/cutscene/dir.json": {
     "audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
@@ -33,7 +48,10 @@
     "audio/default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     },
-    "md5": "2416dcca7e6cc8b039a0ff72cce9702d"
+    "audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
+      "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
+    },
+    "md5": "0a3415585dc2a4f9c9419fee1130b522"
   },
   "/data/audio/dir.json": {
     "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ] (1).mp3": {
@@ -75,10 +93,13 @@
     "cutscene/audio/default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     },
+    "cutscene/audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
+      "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
+    },
     "doop - sunshine [ ezmp3.cc ].mp3": {
       "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
     },
-    "md5": "4e890e99ed25c9834add96837bd62a0d"
+    "md5": "77393755836f05921455e1cff0178f39"
   },
   "/data/dir-json.json": {
     "example-data.json": {
@@ -140,6 +161,9 @@
     },
     "audio/cutscene/audio/default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
+    },
+    "audio/cutscene/audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
+      "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
     },
     "audio/doop - sunshine [ ezmp3.cc ].mp3": {
       "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
@@ -342,7 +366,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "43597dfdde690b53fe42fd97170e5979",
+    "md5": "221094a69829ac48db4c17d079eed49c",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
