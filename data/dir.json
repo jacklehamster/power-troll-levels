@@ -35,6 +35,9 @@
   "audio/cutscene/audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
     "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
   },
+  "audio/cutscene/audio/default/user/darkness.mp3": {
+    "sha": "39105f926f93468aea50286a62ee885c9d573a63"
+  },
   "audio/cutscene/audio/default/user/scratch.mp3": {
     "sha": "e1c2126fac13722bdc10c0d28954ba9e8a7f7f6b"
   },
@@ -254,7 +257,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "1649927fadfdb45a777c1dee739e6da6",
+  "md5": "2d61f0a5da8525fa7067f28811551de4",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },
