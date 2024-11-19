@@ -59,6 +59,9 @@
   "audio/doop - sunshine [ ezmp3.cc ].mp3": {
     "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
   },
+  "audio/undefined/newgrounds/jacklehamster/1376495_Sensual-Chinese-Girl.mp3": {
+    "sha": "0a3eb110466d0c955154ceb4fe615e142b3e4ee6"
+  },
   "example-data.json": {
     "sha": "f6e5ea94b1345c353eb1c69d5e2753df2c27e572"
   },
@@ -257,7 +260,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "2d61f0a5da8525fa7067f28811551de4",
+  "md5": "b7fdc99a169d5ff6587ad83ec998695e",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },
