@@ -227,6 +227,9 @@
   "image/power-troll/newgrounds/jacklehamster/overlay1 (1).png": {
     "sha": "8e85e034aa6b9f5c937e687e0e19c615b8af48bf"
   },
+  "image/power-troll/newgrounds/jacklehamster/wormbosslevel-export.png": {
+    "sha": "82df91824f03dea395913ebeee681c33d8310ca1"
+  },
   "image/powetro.png": {
     "sha": "2c073672f9cc517849f87eb63b252205fd2208ef"
   },
@@ -263,7 +266,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "04cf7d6b3003e5a7410ae4ceacc8fd6d",
+  "md5": "95fa3dd3978556480f4091c29feece36",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },
