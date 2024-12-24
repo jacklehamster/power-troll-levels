@@ -215,6 +215,9 @@
   "image/power-troll/newgrounds/jacklehamster/d65fed15-2a7a-43a0-bcbd-eea1cb3c2255.png": {
     "sha": "6ce5d5e187233cce0ebd4230f957ecd0c18fc9e0"
   },
+  "image/power-troll/newgrounds/jacklehamster/grave-export.png": {
+    "sha": "2286885213157dea0557497ac6958f0a6e366d89"
+  },
   "image/power-troll/newgrounds/jacklehamster/grave.png": {
     "sha": "7f9a31e0c309fa7357f2b8ab4532caceefe30e11"
   },
@@ -269,7 +272,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "0aa346253f10799879a481c889d0e6fc",
+  "md5": "aac767fe695d1df1d11bd0eb0ff47989",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },
