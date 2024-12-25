@@ -227,6 +227,9 @@
   "image/power-troll/newgrounds/jacklehamster/inter5-overlay-1000x600-export.png": {
     "sha": "7c777ab9a1fea5dc4c04bbb5ae8c75422dc5a819"
   },
+  "image/power-troll/newgrounds/jacklehamster/levelundefined-1000x600 (2).png": {
+    "sha": "61d0efc7da93eab6b3e5f5c4c994c95b20414a8e"
+  },
   "image/power-troll/newgrounds/jacklehamster/medusaboss-1000x600-export.png": {
     "sha": "f327314c7ff0032134ece120976106a9f642d6d5"
   },
@@ -272,7 +275,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "84d52f9a5bd367a59d0bbdb1db23185e",
+  "md5": "be4cd71f04143ef5318147c71d2ac20c",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },
