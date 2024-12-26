@@ -42,12 +42,15 @@
     "default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     },
-    "md5": "c9d41795a93111d302c1bee3991398f2",
+    "md5": "4c07a6bb4e4a8af955dd1654a0b6f4c5",
     "newgrounds/jacklehamster/1184476_Strolling-Jamuary-3-2023.mp3": {
       "sha": "cfe64828ab3da5dc9ba86ffa3f894bdd970a16dc"
     },
     "newgrounds/jacklehamster/big-thunder-clap-99753-[AudioTrimmer.com].mp3": {
       "sha": "5c880a26b18aadf92069e69fad9a9f9f9faa760c"
+    },
+    "newgrounds/jacklehamster/light-switch-turn-on-47753.mp3": {
+      "sha": "447aa5e39443c975897ded4ee5ba2996658cee2e"
     },
     "newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
@@ -63,13 +66,16 @@
     "jacklehamster/big-thunder-clap-99753-[AudioTrimmer.com].mp3": {
       "sha": "5c880a26b18aadf92069e69fad9a9f9f9faa760c"
     },
+    "jacklehamster/light-switch-turn-on-47753.mp3": {
+      "sha": "447aa5e39443c975897ded4ee5ba2996658cee2e"
+    },
     "jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
     },
     "jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
       "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
     },
-    "md5": "c4a7b8226a241c254be55c314724d4d2"
+    "md5": "a122b02f84698367e7e34cc96a56c8f0"
   },
   "/data/audio/cutscene/audio/newgrounds/jacklehamster/dir.json": {
     "1184476_Strolling-Jamuary-3-2023.mp3": {
@@ -78,7 +84,10 @@
     "big-thunder-clap-99753-[AudioTrimmer.com].mp3": {
       "sha": "5c880a26b18aadf92069e69fad9a9f9f9faa760c"
     },
-    "md5": "d3ae7b6986da16dbd55a8888b3ff5356",
+    "light-switch-turn-on-47753.mp3": {
+      "sha": "447aa5e39443c975897ded4ee5ba2996658cee2e"
+    },
+    "md5": "9a333dc158094a51ceb8494cbb9af35f",
     "toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
     },
@@ -105,13 +114,16 @@
     "audio/newgrounds/jacklehamster/big-thunder-clap-99753-[AudioTrimmer.com].mp3": {
       "sha": "5c880a26b18aadf92069e69fad9a9f9f9faa760c"
     },
+    "audio/newgrounds/jacklehamster/light-switch-turn-on-47753.mp3": {
+      "sha": "447aa5e39443c975897ded4ee5ba2996658cee2e"
+    },
     "audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
     },
     "audio/newgrounds/jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
       "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
     },
-    "md5": "95a6b818228ad05016fcf80ff9abf5a6"
+    "md5": "9ff21dc32fbb85b6ad8c5a3af74ef8dd"
   },
   "/data/audio/dir.json": {
     "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ] (1).mp3": {
@@ -165,6 +177,9 @@
     "cutscene/audio/newgrounds/jacklehamster/big-thunder-clap-99753-[AudioTrimmer.com].mp3": {
       "sha": "5c880a26b18aadf92069e69fad9a9f9f9faa760c"
     },
+    "cutscene/audio/newgrounds/jacklehamster/light-switch-turn-on-47753.mp3": {
+      "sha": "447aa5e39443c975897ded4ee5ba2996658cee2e"
+    },
     "cutscene/audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
     },
@@ -174,7 +189,7 @@
     "doop - sunshine [ ezmp3.cc ].mp3": {
       "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
     },
-    "md5": "a0526e27856235ed205f62394d6da92a",
+    "md5": "7dd9fd31505832122710816cd314f786",
     "undefined/newgrounds/jacklehamster/1376495_Sensual-Chinese-Girl.mp3": {
       "sha": "0a3eb110466d0c955154ceb4fe615e142b3e4ee6"
     }
@@ -269,6 +284,9 @@
     },
     "audio/cutscene/audio/newgrounds/jacklehamster/big-thunder-clap-99753-[AudioTrimmer.com].mp3": {
       "sha": "5c880a26b18aadf92069e69fad9a9f9f9faa760c"
+    },
+    "audio/cutscene/audio/newgrounds/jacklehamster/light-switch-turn-on-47753.mp3": {
+      "sha": "447aa5e39443c975897ded4ee5ba2996658cee2e"
     },
     "audio/cutscene/audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
       "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
@@ -495,7 +513,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "be4cd71f04143ef5318147c71d2ac20c",
+    "md5": "32f8107b7cf1ac94beb58597e6a42ac7",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },

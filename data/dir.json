@@ -50,6 +50,9 @@
   "audio/cutscene/audio/newgrounds/jacklehamster/big-thunder-clap-99753-[AudioTrimmer.com].mp3": {
     "sha": "5c880a26b18aadf92069e69fad9a9f9f9faa760c"
   },
+  "audio/cutscene/audio/newgrounds/jacklehamster/light-switch-turn-on-47753.mp3": {
+    "sha": "447aa5e39443c975897ded4ee5ba2996658cee2e"
+  },
   "audio/cutscene/audio/newgrounds/jacklehamster/toilet-flush-106040 (mp3cut.net).mp3": {
     "sha": "235c0305de5a1a94ad9dffda85c4eb9d7c56c97f"
   },
@@ -275,7 +278,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "be4cd71f04143ef5318147c71d2ac20c",
+  "md5": "32f8107b7cf1ac94beb58597e6a42ac7",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },
