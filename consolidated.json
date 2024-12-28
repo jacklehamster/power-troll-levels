@@ -220,7 +220,7 @@
       "sha": "0976b684f604dc2e0d3bbaf38bf9d04d1a0b7942"
     },
     "levels/default/4467fe2b-39a/lvl-263501ab-91d.json": {
-      "sha": "6d177790d4eeec48966346c958b66b4165ec71f3"
+      "sha": "73bb6b948b91d0b90479c83f60ec623aff66749a"
     },
     "levels/newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
@@ -228,7 +228,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "c9e8d25a79560c38b2d5bc5b95c9f522",
+    "md5": "67d645a0b7beab1a1e1c3317516f4a8b",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -511,7 +511,7 @@
       "sha": "0976b684f604dc2e0d3bbaf38bf9d04d1a0b7942"
     },
     "levels/default/4467fe2b-39a/lvl-263501ab-91d.json": {
-      "sha": "6d177790d4eeec48966346c958b66b4165ec71f3"
+      "sha": "73bb6b948b91d0b90479c83f60ec623aff66749a"
     },
     "levels/newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
@@ -519,7 +519,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "7094e011baaeef49ecb512313e2292c6",
+    "md5": "b527bdef6fa024496e78d38fe7ab5e2a",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -870,20 +870,20 @@
   },
   "/data/levels/default/4467fe2b-39a/dir-json.json": {
     "lvl-263501ab-91d.json": {
-      "sha": "6d177790d4eeec48966346c958b66b4165ec71f3"
+      "sha": "73bb6b948b91d0b90479c83f60ec623aff66749a"
     },
-    "md5": "e564948b37916bae1724d05da4047258"
+    "md5": "26337de4d0c59191b3bcc288dc35ab79"
   },
   "/data/levels/default/4467fe2b-39a/dir.json": {
     "lvl-263501ab-91d.json": {
-      "sha": "6d177790d4eeec48966346c958b66b4165ec71f3"
+      "sha": "73bb6b948b91d0b90479c83f60ec623aff66749a"
     },
-    "md5": "e564948b37916bae1724d05da4047258"
+    "md5": "26337de4d0c59191b3bcc288dc35ab79"
   },
   "/data/levels/default/4467fe2b-39a/lvl-263501ab-91d.json": {
     "id": "lvl-263501ab-91d",
-    "created": 1735378568141,
-    "updated": 1735378581112,
+    "created": 211780557,
+    "updated": 1735378964367,
     "door": {
       "door1": {
         "x": 633.5149863760217,
@@ -907,26 +907,32 @@
       "type": "default"
     },
     "title": "Test Level",
-    "version": 1,
-    "path": "levels/default/4467fe2b-39a/lvl-263501ab-91d"
+    "version": 2,
+    "path": "levels/default/4467fe2b-39a/lvl-263501ab-91d",
+    "url": "",
+    "music": {
+      "title": "Degenerator",
+      "url": "assets/audio/degenerator-mid.ogg"
+    },
+    "hidden": true
   },
   "/data/levels/default/dir-json.json": {
     "4467fe2b-39a/lvl-263501ab-91d.json": {
-      "sha": "6d177790d4eeec48966346c958b66b4165ec71f3"
+      "sha": "73bb6b948b91d0b90479c83f60ec623aff66749a"
     },
-    "md5": "e838ef79fe81ef4d05c688992419e4a3"
+    "md5": "5b06ffc1f545df17da9781b79277b865"
   },
   "/data/levels/default/dir.json": {
     "4467fe2b-39a/lvl-263501ab-91d.json": {
-      "sha": "6d177790d4eeec48966346c958b66b4165ec71f3"
+      "sha": "73bb6b948b91d0b90479c83f60ec623aff66749a"
     },
-    "md5": "e838ef79fe81ef4d05c688992419e4a3"
+    "md5": "5b06ffc1f545df17da9781b79277b865"
   },
   "/data/levels/dir-json.json": {
     "default/4467fe2b-39a/lvl-263501ab-91d.json": {
-      "sha": "6d177790d4eeec48966346c958b66b4165ec71f3"
+      "sha": "73bb6b948b91d0b90479c83f60ec623aff66749a"
     },
-    "md5": "fb3a9e545da28d90c319015e96335313",
+    "md5": "79089d1ea2c455bdbf271090f8888a4a",
     "newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
@@ -936,9 +942,9 @@
   },
   "/data/levels/dir.json": {
     "default/4467fe2b-39a/lvl-263501ab-91d.json": {
-      "sha": "6d177790d4eeec48966346c958b66b4165ec71f3"
+      "sha": "73bb6b948b91d0b90479c83f60ec623aff66749a"
     },
-    "md5": "fb3a9e545da28d90c319015e96335313",
+    "md5": "79089d1ea2c455bdbf271090f8888a4a",
     "newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
