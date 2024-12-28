@@ -1,0 +1,31 @@
+{
+  "id": "lvl-1c323ab9-ba3",
+  "created": 1735377307181,
+  "updated": 1735378129602,
+  "door": {
+    "door1": {
+      "x": 568.2182985553773,
+      "y": 556.56836461126,
+      "width": 64,
+      "height": 64,
+      "frame": 4
+    }
+  },
+  "key": {
+    "key1": {
+      "x": 367.57624398073835,
+      "y": 427.88203753351206,
+      "width": 45,
+      "height": 45,
+      "frame": 0
+    }
+  },
+  "title": "Blank Level",
+  "profile": {
+    "username": "28822a0d-73bb-4e90-89ec-67d5012a4c12",
+    "type": "default"
+  },
+  "hidden": true,
+  "version": 1,
+  "path": "levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-1c323ab9-ba3"
+}
