@@ -1,7 +1,7 @@
 {
   "id": "lvl-263501ab-91d",
-  "created": 1735378568141,
-  "updated": 1735378581112,
+  "created": 211780557,
+  "updated": 1735378964367,
   "door": {
     "door1": {
       "x": 633.5149863760217,
@@ -25,6 +25,12 @@
     "type": "default"
   },
   "title": "Test Level",
-  "version": 1,
-  "path": "levels/default/4467fe2b-39a/lvl-263501ab-91d"
+  "version": 2,
+  "path": "levels/default/4467fe2b-39a/lvl-263501ab-91d",
+  "url": "",
+  "music": {
+    "title": "Degenerator",
+    "url": "assets/audio/degenerator-mid.ogg"
+  },
+  "hidden": true
 }
