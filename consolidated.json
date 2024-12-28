@@ -222,13 +222,16 @@
     "levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-81555acf-4d9.json": {
       "sha": "016d86167c8c1e4cf3cfa6c22da266f012b7796f"
     },
+    "levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-b9d19c4b-e8a.json": {
+      "sha": "18c0ed06789340c426d3ea2ed83880801dc625e0"
+    },
     "levels/newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "20e6dd0409d0095d5f27845b99be6e74",
+    "md5": "1713725713aa2842457f63b9ea50996d",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -513,13 +516,16 @@
     "levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-81555acf-4d9.json": {
       "sha": "016d86167c8c1e4cf3cfa6c22da266f012b7796f"
     },
+    "levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-b9d19c4b-e8a.json": {
+      "sha": "18c0ed06789340c426d3ea2ed83880801dc625e0"
+    },
     "levels/newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
     },
-    "md5": "0d0bde7e62fa6b6bcd7b765d87d796e8",
+    "md5": "7825c7ec37a63aeaffe36395ad4ea861",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
@@ -872,13 +878,19 @@
     "lvl-81555acf-4d9.json": {
       "sha": "016d86167c8c1e4cf3cfa6c22da266f012b7796f"
     },
-    "md5": "55af5a23712e90b7f375930acd01b887"
+    "lvl-b9d19c4b-e8a.json": {
+      "sha": "18c0ed06789340c426d3ea2ed83880801dc625e0"
+    },
+    "md5": "1b761d8a5e94f7fd25ae27a7d316be5a"
   },
   "/data/levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/dir.json": {
     "lvl-81555acf-4d9.json": {
       "sha": "016d86167c8c1e4cf3cfa6c22da266f012b7796f"
     },
-    "md5": "55af5a23712e90b7f375930acd01b887"
+    "lvl-b9d19c4b-e8a.json": {
+      "sha": "18c0ed06789340c426d3ea2ed83880801dc625e0"
+    },
+    "md5": "1b761d8a5e94f7fd25ae27a7d316be5a"
   },
   "/data/levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-81555acf-4d9.json": {
     "id": "lvl-81555acf-4d9",
@@ -915,23 +927,58 @@
     "version": 1,
     "path": "levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-81555acf-4d9"
   },
+  "/data/levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-b9d19c4b-e8a.json": {
+    "id": "lvl-b9d19c4b-e8a",
+    "created": 1735375982510,
+    "updated": 1735375997094,
+    "door": {
+      "door1": {
+        "x": 505.6179775280899,
+        "y": 498.65951742627345,
+        "width": 64,
+        "height": 64,
+        "frame": 4
+      }
+    },
+    "key": {
+      "key1": {
+        "x": 282.5040128410915,
+        "y": 480.9651474530831,
+        "width": 45,
+        "height": 45,
+        "frame": 0
+      }
+    },
+    "hidden": true,
+    "version": 1,
+    "path": "levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-b9d19c4b-e8a"
+  },
   "/data/levels/default/dir-json.json": {
     "28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-81555acf-4d9.json": {
       "sha": "016d86167c8c1e4cf3cfa6c22da266f012b7796f"
     },
-    "md5": "b1fcda6fd5b1c9348fb7ce056e4b8230"
+    "28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-b9d19c4b-e8a.json": {
+      "sha": "18c0ed06789340c426d3ea2ed83880801dc625e0"
+    },
+    "md5": "9a0a680f881b494d735a512cc1849c7d"
   },
   "/data/levels/default/dir.json": {
     "28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-81555acf-4d9.json": {
       "sha": "016d86167c8c1e4cf3cfa6c22da266f012b7796f"
     },
-    "md5": "b1fcda6fd5b1c9348fb7ce056e4b8230"
+    "28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-b9d19c4b-e8a.json": {
+      "sha": "18c0ed06789340c426d3ea2ed83880801dc625e0"
+    },
+    "md5": "9a0a680f881b494d735a512cc1849c7d"
   },
   "/data/levels/dir-json.json": {
     "default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-81555acf-4d9.json": {
       "sha": "016d86167c8c1e4cf3cfa6c22da266f012b7796f"
     },
-    "md5": "54d93d54dae9828e9c294b63c73fdc69",
+    "default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-b9d19c4b-e8a.json": {
+      "sha": "18c0ed06789340c426d3ea2ed83880801dc625e0"
+    },
+    "md5": "548d8924fad044261deb9baa5621429f",
     "newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },
@@ -943,7 +990,10 @@
     "default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-81555acf-4d9.json": {
       "sha": "016d86167c8c1e4cf3cfa6c22da266f012b7796f"
     },
-    "md5": "54d93d54dae9828e9c294b63c73fdc69",
+    "default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-b9d19c4b-e8a.json": {
+      "sha": "18c0ed06789340c426d3ea2ed83880801dc625e0"
+    },
+    "md5": "548d8924fad044261deb9baa5621429f",
     "newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
       "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
     },

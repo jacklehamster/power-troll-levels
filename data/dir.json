@@ -275,13 +275,16 @@
   "levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-81555acf-4d9.json": {
     "sha": "016d86167c8c1e4cf3cfa6c22da266f012b7796f"
   },
+  "levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-b9d19c4b-e8a.json": {
+    "sha": "18c0ed06789340c426d3ea2ed83880801dc625e0"
+  },
   "levels/newgrounds/jacklehamster/lvl-1ecdc548-0bb.json": {
     "sha": "2ecdce04e6023f86f88cb9924368eb2f32cc816c"
   },
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "6dfa79212dafd2524f84b0bbdbc2a42b35f13a20"
   },
-  "md5": "0d0bde7e62fa6b6bcd7b765d87d796e8",
+  "md5": "7825c7ec37a63aeaffe36395ad4ea861",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },
