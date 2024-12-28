@@ -1,0 +1,30 @@
+{
+  "id": "lvl-263501ab-91d",
+  "created": 1735378568141,
+  "updated": 1735378581112,
+  "door": {
+    "door1": {
+      "x": 633.5149863760217,
+      "y": 507.27272727272725,
+      "width": 64,
+      "height": 64,
+      "frame": 4
+    }
+  },
+  "key": {
+    "key1": {
+      "x": 351.4986376021798,
+      "y": 316.3636363636363,
+      "width": 45,
+      "height": 45,
+      "frame": 0
+    }
+  },
+  "profile": {
+    "username": "4467fe2b-39a",
+    "type": "default"
+  },
+  "title": "Test Level",
+  "version": 1,
+  "path": "levels/default/4467fe2b-39a/lvl-263501ab-91d"
+}
