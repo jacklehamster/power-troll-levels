@@ -1,0 +1,26 @@
+{
+  "id": "lvl-b9d19c4b-e8a",
+  "created": 1735375982510,
+  "updated": 1735375997094,
+  "door": {
+    "door1": {
+      "x": 505.6179775280899,
+      "y": 498.65951742627345,
+      "width": 64,
+      "height": 64,
+      "frame": 4
+    }
+  },
+  "key": {
+    "key1": {
+      "x": 282.5040128410915,
+      "y": 480.9651474530831,
+      "width": 45,
+      "height": 45,
+      "frame": 0
+    }
+  },
+  "hidden": true,
+  "version": 1,
+  "path": "levels/default/28822a0d-73bb-4e90-89ec-67d5012a4c12/lvl-b9d19c4b-e8a"
+}
