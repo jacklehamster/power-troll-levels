@@ -1,7 +1,7 @@
 {
   "id": "lvl-2dc7e968-a4c",
   "created": 3440547629,
-  "updated": 1735474310481,
+  "updated": 1735474692618,
   "backgrounds": [
     "https%3A//cdn.dobuki.net/44f1452ad92bb2a63cec197962b774030146a21cdec3af359b40c2978cf5519c.jpg",
     "https%3A//power-troll-levels.dobuki.net/data/image/77893281_wide.jpg"
@@ -96,7 +96,7 @@
     "backupUrl": "https%3A//power-troll-levels.dobuki.net/data/audio/Doop%2520-%2520My%2520Chihuahua%2520%255B%2520ezmp3.cc%2520%255D.mp3"
   },
   "hidden": false,
-  "version": 7,
+  "version": 8,
   "url": "",
   "autoNext": true,
   "community": false,
@@ -110,7 +110,13 @@
           "repeat": false,
           "fade": true
         }
-      ]
+      ],
+      "id": "537c71da-6bc2-4072-ba5d-81ece2f67a98",
+      "created": 1735474656054,
+      "availableImages": [],
+      "availableAudio": [],
+      "disabled": true,
+      "updated": 1735474672570
     }
   },
   "monster": {
@@ -135,14 +141,16 @@
       "y": 389,
       "width": 48,
       "height": 48,
-      "frame": 0
+      "frame": 0,
+      "sitting": true
     },
     "troll2": {
       "x": 242,
       "y": 399,
       "width": 48,
       "height": 48,
-      "frame": 0
+      "frame": 0,
+      "sitting": false
     }
   },
   "path": "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c"
