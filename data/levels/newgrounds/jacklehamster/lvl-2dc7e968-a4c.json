@@ -1,7 +1,7 @@
 {
   "id": "lvl-2dc7e968-a4c",
   "created": 3440547629,
-  "updated": 1730067110545,
+  "updated": 1735474310481,
   "backgrounds": [
     "https%3A//cdn.dobuki.net/44f1452ad92bb2a63cec197962b774030146a21cdec3af359b40c2978cf5519c.jpg",
     "https%3A//power-troll-levels.dobuki.net/data/image/77893281_wide.jpg"
@@ -32,6 +32,12 @@
       "y": 206,
       "width": 50,
       "height": 50
+    },
+    "ground5": {
+      "x": 28,
+      "y": 293,
+      "width": 50,
+      "height": 50
     }
   },
   "door": {
@@ -46,8 +52,8 @@
   },
   "key": {
     "key1": {
-      "x": 467.32429099876697,
-      "y": 148.14814814814815,
+      "x": 22,
+      "y": 220,
       "width": 45,
       "height": 45,
       "frame": 0
@@ -89,8 +95,8 @@
     "url": "https%3A//cdn.dobuki.net/10c6a8c665f5a7969a5c963ee5ac4363570f79f667e463c593cc3ab4f6f1bc83.mp3",
     "backupUrl": "https%3A//power-troll-levels.dobuki.net/data/audio/Doop%2520-%2520My%2520Chihuahua%2520%255B%2520ezmp3.cc%2520%255D.mp3"
   },
-  "hidden": true,
-  "version": 6,
+  "hidden": false,
+  "version": 7,
   "url": "",
   "autoNext": true,
   "community": false,
@@ -106,5 +112,38 @@
         }
       ]
     }
-  }
+  },
+  "monster": {
+    "monster1": {
+      "x": 637.5180109757968,
+      "y": 270.9933774834437,
+      "width": 64,
+      "height": 64,
+      "frame": 4
+    },
+    "monster2": {
+      "x": 183,
+      "y": 251,
+      "width": 64,
+      "height": 64,
+      "frame": 6
+    }
+  },
+  "troll": {
+    "troll": {
+      "x": 200,
+      "y": 389,
+      "width": 48,
+      "height": 48,
+      "frame": 0
+    },
+    "troll2": {
+      "x": 242,
+      "y": 399,
+      "width": 48,
+      "height": 48,
+      "frame": 0
+    }
+  },
+  "path": "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c"
 }
