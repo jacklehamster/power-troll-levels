@@ -14,6 +14,9 @@
   "jacklehamster/inter5-overlay-1000x600-export.png": {
     "sha": "7c777ab9a1fea5dc4c04bbb5ae8c75422dc5a819"
   },
+  "jacklehamster/level6-1000x600-export.png": {
+    "sha": "61b10a827a5fa3b5d2db08cbab74e13381dba355"
+  },
   "jacklehamster/level6-1000x600.png": {
     "sha": "61b10a827a5fa3b5d2db08cbab74e13381dba355"
   },
@@ -29,5 +32,5 @@
   "jacklehamster/wormbosslevel-export.png": {
     "sha": "82df91824f03dea395913ebeee681c33d8310ca1"
   },
-  "md5": "57d75f7199169132ed2656b16f56409c"
+  "md5": "41fb80e9cb39c16b7507b409042d397f"
 }
