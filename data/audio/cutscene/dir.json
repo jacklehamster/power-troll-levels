@@ -1,4 +1,7 @@
 {
+  "audio/default/user/02 Wizkid - Ginger (feat. Burna Boy) (NetNaija.com).mp3": {
+    "sha": "bc5e9bf28795da1705530b2aadad5a84ba1f0967"
+  },
   "audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
     "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
   },
@@ -26,5 +29,5 @@
   "audio/newgrounds/jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
     "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
   },
-  "md5": "9ff21dc32fbb85b6ad8c5a3af74ef8dd"
+  "md5": "ae863cf9f6deec4905189b4e11186e6e"
 }

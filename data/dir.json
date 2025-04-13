@@ -32,6 +32,9 @@
   "audio/beep-bop-troll.ogg": {
     "sha": "f1bd6ac6ab1a3f1613aa8603caadc4d6a218e5df"
   },
+  "audio/cutscene/audio/default/user/02 Wizkid - Ginger (feat. Burna Boy) (NetNaija.com).mp3": {
+    "sha": "bc5e9bf28795da1705530b2aadad5a84ba1f0967"
+  },
   "audio/cutscene/audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
     "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
   },
@@ -287,7 +290,7 @@
   "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
     "sha": "f6c955f967fe34e817822e3717adfb8fe55b9905"
   },
-  "md5": "69f46707d3d4fc3e28436ecca458c49a",
+  "md5": "b32ba51367794eba91c3155fd809adec",
   "user/vincent/levels.json": {
     "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
   },

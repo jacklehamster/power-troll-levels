@@ -1,6 +1,9 @@
 {
   "/data/audio/cutscene/audio/default/dir.json": {
-    "md5": "1adceb62d7866b87d11707c18f1b9a39",
+    "md5": "4c924a12695f74f7bc22c1858fe3fd73",
+    "user/02 Wizkid - Ginger (feat. Burna Boy) (NetNaija.com).mp3": {
+      "sha": "bc5e9bf28795da1705530b2aadad5a84ba1f0967"
+    },
     "user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
     },
@@ -15,13 +18,16 @@
     }
   },
   "/data/audio/cutscene/audio/default/user/dir.json": {
+    "02 Wizkid - Ginger (feat. Burna Boy) (NetNaija.com).mp3": {
+      "sha": "bc5e9bf28795da1705530b2aadad5a84ba1f0967"
+    },
     "1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
     },
     "darkness.mp3": {
       "sha": "39105f926f93468aea50286a62ee885c9d573a63"
     },
-    "md5": "dacf49b5f1665db5958dc6fd302f6cd4",
+    "md5": "58c9156cd335c8ed0c13ead7a5d80e88",
     "scratch.mp3": {
       "sha": "e1c2126fac13722bdc10c0d28954ba9e8a7f7f6b"
     },
@@ -30,6 +36,9 @@
     }
   },
   "/data/audio/cutscene/audio/dir.json": {
+    "default/user/02 Wizkid - Ginger (feat. Burna Boy) (NetNaija.com).mp3": {
+      "sha": "bc5e9bf28795da1705530b2aadad5a84ba1f0967"
+    },
     "default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
     },
@@ -42,7 +51,7 @@
     "default/user/trumpet.mp3": {
       "sha": "dbd4e8bd708de67a52fbd1e8585d5f3dd84989b7"
     },
-    "md5": "4c07a6bb4e4a8af955dd1654a0b6f4c5",
+    "md5": "0eef4ad079f6cd86c1917fac3d17dcd8",
     "newgrounds/jacklehamster/1184476_Strolling-Jamuary-3-2023.mp3": {
       "sha": "cfe64828ab3da5dc9ba86ffa3f894bdd970a16dc"
     },
@@ -96,6 +105,9 @@
     }
   },
   "/data/audio/cutscene/dir.json": {
+    "audio/default/user/02 Wizkid - Ginger (feat. Burna Boy) (NetNaija.com).mp3": {
+      "sha": "bc5e9bf28795da1705530b2aadad5a84ba1f0967"
+    },
     "audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
     },
@@ -123,7 +135,7 @@
     "audio/newgrounds/jacklehamster/water-drop-85731 (mp3cut.net).mp3": {
       "sha": "b2bbff5c08e51fb64b62f3e6cc98671b4f70ea6d"
     },
-    "md5": "9ff21dc32fbb85b6ad8c5a3af74ef8dd"
+    "md5": "ae863cf9f6deec4905189b4e11186e6e"
   },
   "/data/audio/dir.json": {
     "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV [ ezmp3.cc ] (1).mp3": {
@@ -159,6 +171,9 @@
     "beep-bop-troll.ogg": {
       "sha": "f1bd6ac6ab1a3f1613aa8603caadc4d6a218e5df"
     },
+    "cutscene/audio/default/user/02 Wizkid - Ginger (feat. Burna Boy) (NetNaija.com).mp3": {
+      "sha": "bc5e9bf28795da1705530b2aadad5a84ba1f0967"
+    },
     "cutscene/audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
     },
@@ -189,7 +204,7 @@
     "doop - sunshine [ ezmp3.cc ].mp3": {
       "sha": "f9b1c45e037f14e32964d82d0a8e10c790dd2d52"
     },
-    "md5": "7dd9fd31505832122710816cd314f786",
+    "md5": "1835628e2398e93dc48bff4f46f6e166",
     "undefined/newgrounds/jacklehamster/1376495_Sensual-Chinese-Girl.mp3": {
       "sha": "0a3eb110466d0c955154ceb4fe615e142b3e4ee6"
     }
@@ -269,6 +284,9 @@
     },
     "audio/beep-bop-troll.ogg": {
       "sha": "f1bd6ac6ab1a3f1613aa8603caadc4d6a218e5df"
+    },
+    "audio/cutscene/audio/default/user/02 Wizkid - Ginger (feat. Burna Boy) (NetNaija.com).mp3": {
+      "sha": "bc5e9bf28795da1705530b2aadad5a84ba1f0967"
     },
     "audio/cutscene/audio/default/user/1247745_The-Wild-Horde---Ennio-Mor.mp3": {
       "sha": "22261a44c061d6722f79697547f070e7bbaf84e1"
@@ -525,7 +543,7 @@
     "levels/newgrounds/jacklehamster/lvl-2dc7e968-a4c.json": {
       "sha": "f6c955f967fe34e817822e3717adfb8fe55b9905"
     },
-    "md5": "69f46707d3d4fc3e28436ecca458c49a",
+    "md5": "b32ba51367794eba91c3155fd809adec",
     "user/vincent/levels.json": {
       "sha": "41ab79110969ea74fe6cd55dd4474154291db846"
     },
